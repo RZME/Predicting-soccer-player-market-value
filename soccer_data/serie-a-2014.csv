@@ -1,0 +1,246 @@
+club,club_league,club_league_tier,club_country,transfer_movement,player_name,player_age,player_nationality,player_club,player_club_country,player_position,player_position_category,player_rating,player_potential,club_involved,club_involved_league,club_involved_league_tier,club_involved_country,transfer_fee,market_value,remaining_contract_duration,total_apps,total_apps_ratio,total_minutes_per_point,total_goals,total_assists,total_minutes_played,ucl_apps,ucl_apps_ratio,ucl_minutes_per_point,ucl_goals,ucl_assists,ucl_minutes_played,el_apps,el_apps_ratio,el_minutes_per_point,el_goals,el_assists,el_minutes_played,season
+ac florenz,serie a,1,italy,out,juan cuadrado,26,colombia,ac florenz,italy,RW,attacker,82,83,fc chelsea,premier league,1,england,27.9,28.8,1612,43,0.93,1.74,15,11,3435,0,0,0,0,0,0,8,0.89,2,3,3,532,2014/2015
+as rom,serie a,1,italy,out,medhi benatia,27,morocco,as rom,italy,CB,defender,85,87,fc bayern munchen,1 bundesliga,1,germany,25.2,25.2,1408,37,1,2.19,5,0,3131,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,juan iturbe,21,paraguay,hellas verona,italy,RW,attacker,NA,NA,as rom,serie a,1,italy,22.05,18,0,34,0.92,1.44,8,5,2518,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,juan iturbe,21,paraguay,hellas verona,italy,RW,attacker,NA,NA,hellas verona,serie a,1,italy,22.05,18,0,34,0.92,1.44,8,5,2518,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,alvaro morata,21,spain,real madrid,spain,CF,attacker,76,82,real madrid,primera division,1,spain,18,10.8,352,34,0.63,2.35,9,1,969,5,0.45,3,1,1,173,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,out,mario balotelli,24,italy,ac mailand,italy,CF,attacker,83,90,fc liverpool,premier league,1,england,18,24.3,1045,41,1,1.41,18,7,3161,8,1,1.13,2,1,597,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,out,ciro immobile,24,italy,fc turin,italy,CF,attacker,80,86,borussia dortmund,1 bundesliga,1,germany,16.65,16.2,0,34,1,1.44,23,3,2679,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,out,radja nainggolan,26,belgium,cagliari calcio,italy,AM,midfielder,80,82,as rom,serie a,1,italy,13.5,16.2,0,38,0.97,1.82,4,3,3282,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,juan iturbe,21,paraguay,fc porto,portugal,RW,attacker,NA,NA,fc porto,primeira liga,1,portugal,13.5,9,736,34,0.92,1.44,8,5,2518,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,radja nainggolan,26,belgium,cagliari calcio,italy,AM,midfielder,80,82,cagliari calcio,serie a,1,italy,13.5,16.2,0,38,0.97,1.82,4,3,3282,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,konstantinos manolas,23,greece,olympiakos piraus,greece,CB,defender,75,80,olympiakos piraus,super league,1,greece,13.5,5.4,679,37,0.84,2.16,5,0,3224,7,0.88,1.86,2,0,630,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,out,alessio cerci,27,italy,fc turin,italy,RW,attacker,81,84,atletico madrid,primera division,1,spain,13.5,16.2,0,38,1,1.47,13,11,3042,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,seydou doumbia,27,cote d\'ivoire,zska moskau,russia,CF,attacker,NA,NA,zska moskau,premier liga,1,russia,12.96,22.5,519,27,1,2.37,20,9,2023,2,1,0,2,0,180,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,in,manolo gabbiadini,23,italy,uc sampdoria,italy,CF,attacker,76,83,uc sampdoria,serie a,1,italy,11.25,10.8,0,35,0.97,1.34,10,4,2818,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,manolo gabbiadini,23,italy,uc sampdoria,italy,CF,attacker,76,83,ssc neapel,serie a,1,italy,11.25,10.8,0,35,0.97,1.34,10,4,2818,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,out,abel hernandez,24,uruguay,us palermo,italy,CF,attacker,72,81,hull city,premier league,1,england,10.8,4.5,673,30,0.97,1.8,14,2,2079,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,stefano sturaro,21,italy,fc genua 1893,italy,CM,midfielder,68,75,juventus turin,serie a,1,italy,9.54,0.27,0,16,0.53,1.19,1,2,1114,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,stefano sturaro,21,italy,fc genua 1893,italy,CM,midfielder,68,75,fc genua 1893,serie a,1,italy,9.54,0.27,0,16,0.53,1.19,1,2,1114,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,out,federico fernandez,25,argentina,ssc neapel,italy,CB,defender,75,80,swansea city,premier league,1,england,9,4.5,685,36,0.77,2.06,0,1,3110,5,1,1.8,0,0,367,1,0.5,1,0,0,90,2014/2015
+uc sampdoria,serie a,1,italy,in,joaquin correa,20,argentina,estudiantes de la plata,argentina,SS,attacker,67,75,estudiantes de la plata,primera division,1,argentina,7.56,7.2,0,32,1,1.56,3,2,2020,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,in,gary medel,27,chile,cardiff city,england,DM,midfielder,76,76,cardiff city,championship,2,england,7.2,9.9,1057,35,0.97,0.86,0,1,2918,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,shkodran mustafi,22,germany,uc sampdoria,italy,CB,defender,76,80,fc valencia,primera division,1,spain,7.2,6.3,0,35,0.92,1.26,1,1,2934,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,out,odion ighalo,25,nigeria,udinese calcio,italy,CF,attacker,72,76,fc watford,championship,2,england,7.2,1.8,0,18,0.78,0.72,4,0,556,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,out,charles aranguiz,25,chile,udinese calcio,italy,CM,midfielder,75,80,sc internacional porto alegre,campeonato brasileiro serie a,1,brazil,7.2,2.7,689,38,1,1.87,13,4,3331,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,in,kalidou koulibaly,23,senegal,krc genk,belgium,CB,defender,NA,NA,krc genk,jupiler pro league,1,belgium,6.98,5.85,736,46,1,1.63,2,1,4017,0,0,0,0,0,0,9,1,2,0,0,789,2014/2015
+as rom,serie a,1,italy,in,mapou yanga mbiwa,25,france,newcastle united,england,CB,defender,76,81,newcastle united,premier league,1,england,6.62,5.4,1253,26,0.63,1.23,0,0,1797,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,giacomo bonaventura,25,italy,atalanta bergamo,italy,CM,midfielder,79,85,ac mailand,serie a,1,italy,6.3,9,0,31,0.91,1.48,5,4,2520,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+lazio rom,serie a,1,italy,in,stefan de vrij,22,netherlands,feyenoord rotterdam,netherlands,CB,defender,75,81,feyenoord rotterdam,eredivisie,1,netherlands,6.3,5.4,341,35,0.97,1.91,4,1,3116,0,0,0,0,0,0,2,1,0,0,0,180,2014/2015
+ac mailand,serie a,1,italy,in,giacomo bonaventura,25,italy,atalanta bergamo,italy,CM,midfielder,79,85,atalanta bergamo,serie a,1,italy,6.3,9,0,31,0.91,1.48,5,4,2520,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,out,tin jedvaj,19,croatia,as rom,italy,CB,defender,66,78,bayer 04 leverkusen,1 bundesliga,1,germany,6.3,5.85,1260,9,0.21,2.67,1,0,639,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,marko livaja,20,croatia,atalanta bergamo,italy,CF,attacker,70,82,rubin kazan,premier liga,1,russia,5.85,2.97,0,23,0.72,0.96,4,1,991,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,mirko vucinic,30,montenegro,juventus turin,italy,SS,attacker,79,79,al jazira abu dhabi ,uae arabian gulf league,1,united arab emirates,5.67,8.1,0,18,0.62,2.44,2,1,684,2,1,2,0,0,35,3,0.6,2,0,0,158,2014/2015
+as rom,serie a,1,italy,in,antonio sanabria,18,paraguay,us sassuolo,italy,CF,attacker,65,78,us sassuolo,serie a,1,italy,5.58,4.05,0,15,0.6,1.27,7,0,876,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,out,antonio sanabria,18,paraguay,us sassuolo,italy,CF,attacker,65,78,as rom,serie a,1,italy,5.58,4.05,0,15,0.6,1.27,7,0,876,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,in,jonathan de guzman,26,netherlands,fc villarreal,spain,CM,midfielder,76,78,fc villarreal,primera division,1,spain,5.4,9,685,48,0.98,1.25,7,5,3310,0,0,0,0,0,0,9,0.9,1.22,2,0,602,2014/2015
+ssc neapel,serie a,1,italy,out,valon behrami,29,switzerland,ssc neapel,italy,DM,midfielder,79,79,hamburger sv,1 bundesliga,1,germany,5.4,10.8,1067,33,0.79,1.97,0,0,2210,6,1,2,0,0,450,3,0.75,1.33,0,0,270,2014/2015
+inter mailand,serie a,1,italy,out,ishak belfodil,22,algeria,inter mailand,italy,CF,attacker,74,81,fc parma,serie a,1,italy,5.18,9.9,1466,27,0.77,1.07,1,1,1129,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,ishak belfodil,22,algeria,inter mailand,italy,CF,attacker,74,81,inter mailand,serie a,1,italy,5.18,9.9,1466,27,0.77,1.07,1,1,1129,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,sime vrsaljko,22,croatia,fc genua 1893,italy,RB,defender,72,80,us sassuolo,serie a,1,italy,4.95,6.75,1444,23,0.88,1.3,0,2,1918,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,alberto gilardino,32,italy,fc genua 1893,italy,CF,attacker,NA,NA,guangzhou evergrande f c ,chinese super league,1,china,4.95,4.5,724,54,1,1.44,22,6,4170,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,andrea belotti,20,italy,uc albinoleffe,italy,CF,attacker,66,76,uc albinoleffe,prima divisione a,3,italy,4.95,2.25,0,25,0.86,2.12,10,4,1307,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,in,sime vrsaljko,22,croatia,fc genua 1893,italy,RB,defender,72,80,fc genua 1893,serie a,1,italy,4.95,6.75,1444,23,0.88,1.3,0,2,1918,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,in,david lopez,24,spain,espanyol barcelona,spain,DM,midfielder,72,78,espanyol barcelona,primera division,1,spain,4.77,4.5,0,37,1,1.14,3,1,3072,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,out,bryan cristante,19,italy,ac mailand,italy,CM,midfielder,67,82,benfica lissabon,primeira liga,1,portugal,4.68,2.7,1403,10,0.3,1.2,3,1,717,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc empoli,serie a,1,italy,out,daniele rugani,20,italy,fc empoli,italy,CB,defender,69,82,juventus turin,serie a,1,italy,4.5,6.75,0,42,1,1.71,2,2,3758,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,daniele rugani,20,italy,fc empoli,italy,CB,defender,69,82,fc empoli,serie a,1,italy,4.5,6.75,0,42,1,1.71,2,2,3758,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,luca marrone,24,italy,us sassuolo,italy,CB,defender,69,78,us sassuolo,serie a,1,italy,4.5,4.05,0,15,0.58,0.73,0,3,1140,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,out,luca marrone,24,italy,us sassuolo,italy,CB,defender,69,78,juventus turin,serie a,1,italy,4.5,4.05,0,15,0.58,0.73,0,3,1140,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,out,marco benassi,19,italy,inter mailand,italy,CM,midfielder,68,80,fc turin,serie a,1,italy,4.32,1.71,1101,21,0.57,0.57,2,4,1592,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,marco benassi,19,italy,inter mailand,italy,CM,midfielder,68,80,inter mailand,serie a,1,italy,4.32,1.71,1101,21,0.57,0.57,2,4,1592,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,out,federico bonazzoli,17,italy,inter mailand,italy,CF,attacker,NA,NA,uc sampdoria,serie a,1,italy,4.05,2.25,0,25,0.93,1.64,13,0,1531,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,federico peluso,30,italy,juventus turin,italy,LB,defender,71,71,us sassuolo,serie a,1,italy,4.05,3.42,0,14,0.33,2.5,1,2,762,1,0.25,1,0,1,73,2,0.67,3,0,0,180,2014/2015
+lazio rom,serie a,1,italy,in,marco parolo,29,italy,fc parma,italy,CM,midfielder,77,80,fc parma,serie a,1,italy,4.05,5.4,0,38,0.97,1.55,8,7,3353,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,out,kyle lafferty,26,northern ireland,us palermo,italy,CF,attacker,71,74,norwich city,championship,2,england,4.05,2.7,0,36,0.9,2.06,12,1,1959,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,marco parolo,29,italy,fc parma,italy,CM,midfielder,77,80,lazio rom,serie a,1,italy,4.05,5.4,0,38,0.97,1.55,8,7,3353,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,in,federico bonazzoli,17,italy,inter mailand,italy,CF,attacker,NA,NA,inter mailand,serie a,1,italy,4.05,2.25,0,25,0.93,1.64,13,0,1531,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,in,federico peluso,30,italy,juventus turin,italy,LB,defender,71,71,juventus turin,serie a,1,italy,4.05,3.42,0,14,0.33,2.5,1,2,762,1,0.25,1,0,1,73,2,0.67,3,0,0,180,2014/2015
+udinese calcio,serie a,1,italy,in,guilherme,23,brazil,corinthians sao paulo,brazil,DM,midfielder,73,81,corinthians sao paulo,campeonato brasileiro serie a,1,brazil,4.05,2.25,0,5,0.83,1.6,1,0,426,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,panagiotis kone,27,greece,fc bologna,italy,CM,midfielder,74,76,fc bologna,serie b,2,italy,4.05,5.4,0,29,0.97,0.79,5,1,2426,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,in,papu gomez,26,argentina,metalist kharkiv,ukraine,SS,attacker,NA,NA,metalist kharkiv,premier liga,1,ukraine,4.02,7.2,1403,24,1,2.04,4,6,1812,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,in,adil rami,28,france,fc valencia,spain,CB,defender,80,84,fc valencia,primera division,1,spain,3.83,7.2,359,26,0.9,1.58,3,2,2124,2,1,0,0,0,180,1,1,0,0,0,10,2014/2015
+ac florenz,serie a,1,italy,in,milan badelj,25,croatia,hamburger sv,germany,DM,midfielder,76,81,hamburger sv,1 bundesliga,1,germany,3.6,4.5,309,35,1,1.09,1,2,2920,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,rodrigo aguirre,19,uruguay,liverpool fc montevideo,uruguay,CF,attacker,NA,NA,liverpool fc montevideo,segunda division profesional,2,uruguay,3.6,1.35,0,26,1,1.31,8,3,2301,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,lucas evangelista,19,brazil,fc sao paulo,brazil,AM,midfielder,63,75,fc sao paulo,campeonato brasileiro serie a,1,brazil,3.6,0.9,1102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,giancarlo gonzalez,26,costa rica,columbus crew,united states,CB,defender,72,76,columbus crew,major league soccer,1,united states,3.42,0.54,0,17,1,1.35,1,1,1530,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac florenz,serie a,1,italy,out,romulo,27,italy,ac florenz,italy,CM,midfielder,76,78,hellas verona,serie a,1,italy,3.15,7.2,357,33,0.97,1.42,6,8,2633,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,romulo,27,italy,ac florenz,italy,CM,midfielder,76,78,ac florenz,serie a,1,italy,3.15,7.2,357,33,0.97,1.42,6,8,2633,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,fabio quagliarella,31,italy,juventus turin,italy,CF,attacker,78,78,fc turin,serie a,1,italy,3.15,5.4,0,23,0.57,2.39,4,2,722,4,0.8,0.75,2,1,151,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,fabio quagliarella,31,italy,juventus turin,italy,CF,attacker,78,78,juventus turin,serie a,1,italy,3.15,5.4,0,23,0.57,2.39,4,2,722,4,0.8,0.75,2,1,151,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,edenilson,24,brazil,corinthians sao paulo,brazil,CM,midfielder,NA,NA,corinthians sao paulo,campeonato brasileiro serie a,1,brazil,3.15,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,juan sanchez mino,24,argentina,club atletico boca juniors,argentina,LB,defender,75,80,club atletico boca juniors,torneo inicial,1,argentina,2.88,2.7,0,30,0.91,1.6,4,8,2386,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,andrea consigli,27,italy,atalanta bergamo,italy,GK,keeper,79,83,us sassuolo,serie a,1,italy,2.7,7.2,0,36,1,1.31,0,0,3240,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,mariano izco,31,argentina,catania calcio,italy,CM,midfielder,73,73,catania calcio,serie b,2,italy,2.7,2.34,0,30,0.94,1.03,3,2,2367,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,in,fernando torres,30,spain,fc chelsea,england,CF,attacker,82,82,fc chelsea,premier league,1,england,2.7,6.3,545,41,0.89,1.85,11,6,2263,9,0.9,1.56,4,0,419,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,in,gonzalo bergessio,30,argentina,catania calcio,italy,CF,attacker,71,71,catania calcio,serie b,2,italy,2.7,3.6,0,30,0.97,0.97,10,3,2424,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,in,andrea consigli,27,italy,atalanta bergamo,italy,GK,keeper,79,83,atalanta bergamo,serie a,1,italy,2.7,7.2,0,36,1,1.31,0,0,3240,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,josef martinez,21,venezuela,bsc young boys,switzerland,CF,attacker,65,77,bsc young boys,raiffeisen super league,1,switzerland,2.7,1.13,736,50,0.98,1.52,12,7,3276,0,0,0,0,0,0,7,0.88,0.43,1,0,400,2014/2015
+udinese calcio,serie a,1,italy,in,allan,23,brazil,fc granada,spain,CM,midfielder,75,78,fc granada,primera division,1,spain,2.7,7.2,736,41,0.93,1.39,0,3,3364,0,0,0,0,0,0,2,1,0.5,0,0,180,2014/2015
+udinese calcio,serie a,1,italy,out,maicosuel,28,brazil,udinese calcio,italy,LW,attacker,73,73,atletico mineiro,campeonato brasileiro serie a,1,brazil,2.7,2.97,1101,41,0.72,1.39,4,7,2075,0,0,0,0,0,0,2,1,0.5,0,0,86,2014/2015
+atalanta bergamo,serie a,1,italy,in,richmond boakye,21,ghana,juventus turin,italy,CF,attacker,71,80,juventus turin,serie a,1,italy,2.43,2.7,0,32,0.89,1.06,7,1,1282,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,richmond boakye,21,ghana,juventus turin,italy,CF,attacker,71,80,atalanta bergamo,serie a,1,italy,2.43,2.7,0,32,0.89,1.06,7,1,1282,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,NA,italy,in,caio rangel,18,brazil,flamengo rio de janeiro u19,brazil,RW,attacker,NA,NA,flamengo rio de janeiro u19,NA,1,brazil,2.39,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac florenz,serie a,1,italy,in,jose maria basanta,30,argentina,cf monterrey,mexico,CB,defender,70,70,cf monterrey,liga mx clausura,1,mexico,2.34,3.15,0,26,0.93,1.46,1,1,2364,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,in,marco dalessandro,23,italy,as rom,italy,RM,midfielder,NA,NA,as rom,serie a,1,italy,2.25,1.44,0,44,0.98,1.61,3,5,3213,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,godfred donsah,18,ghana,hellas verona,italy,CM,midfielder,55,70,hellas verona,serie a,1,italy,2.25,1.8,0,22,0.67,1.41,4,0,1836,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,luca ceppitelli,24,italy,fc parma,italy,CB,defender,68,75,fc parma,serie a,1,italy,2.25,1.8,1428,42,1,1.5,6,0,3735,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,emmanuel cascione,30,italy,fc parma,italy,CM,midfielder,71,71,fc parma,serie a,1,italy,2.25,0.72,0,30,0.94,2,7,2,2222,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,luca ceccarelli,31,italy,ac cesena,italy,RB,defender,65,65,fc bologna,serie b,2,italy,2.25,0.27,0,18,0.58,0.72,0,1,1395,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,nicola ravaglia,25,italy,ac cesena,italy,GK,keeper,NA,NA,fc parma,serie a,1,italy,2.25,0.18,0,23,0.74,1.74,0,0,2070,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,antonio floro flores,31,italy,fc genua 1893,italy,CF,attacker,73,73,us sassuolo,serie a,1,italy,2.25,2.25,1101,33,0.89,0.79,7,3,1632,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,godfred donsah,18,ghana,hellas verona,italy,CM,midfielder,55,70,cagliari calcio,serie a,1,italy,2.25,1.8,0,22,0.67,1.41,4,0,1836,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,in,gabriel paletta,28,italy,fc parma,italy,CB,defender,80,83,fc parma,serie a,1,italy,2.25,7.65,0,23,0.88,1.78,0,0,1716,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,out,kevin constant,27,guinea,ac mailand,italy,CM,midfielder,73,76,trabzonspor,super lig,1,turkey,2.25,4.05,1062,26,0.63,1.62,0,1,1973,6,0.86,1.5,0,0,368,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,nicola ravaglia,25,italy,ac cesena,italy,GK,keeper,NA,NA,ac cesena,serie a,1,italy,2.25,0.18,0,23,0.74,1.74,0,0,2070,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,emmanuel cascione,30,italy,fc parma,italy,CM,midfielder,71,71,ac cesena,serie a,1,italy,2.25,0.72,0,30,0.94,2,7,2,2222,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,gabriel paletta,28,italy,fc parma,italy,CB,defender,80,83,ac mailand,serie a,1,italy,2.25,7.65,0,23,0.88,1.78,0,0,1716,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,luca ceppitelli,24,italy,fc parma,italy,CB,defender,68,75,cagliari calcio,serie a,1,italy,2.25,1.8,1428,42,1,1.5,6,0,3735,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,out,marco dalessandro,23,italy,as rom,italy,RM,midfielder,NA,NA,atalanta bergamo,serie a,1,italy,2.25,1.44,0,44,0.98,1.61,3,5,3213,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,in,antonio floro flores,31,italy,fc genua 1893,italy,CF,attacker,73,73,fc genua 1893,serie a,1,italy,2.25,2.25,1101,33,0.89,0.79,7,3,1632,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,nikola maksimovic,22,serbia,roter stern belgrad,serbia,CB,defender,74,80,roter stern belgrad,superliga,1,serbia,2.25,1.35,736,23,0.62,1.61,0,1,1806,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,NA,italy,in,davide cais,20,italy,atalanta primavera,italy,CF,attacker,NA,NA,atalanta primavera,campionato primavera girone b,1,italy,2.21,0.18,0,14,0.58,0.71,1,0,499,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,emanuele fonte,21,italy,ac cesena,italy,CB,defender,NA,NA,brescia calcio,serie b,2,italy,2.16,0.045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac florenz,serie a,1,italy,out,lorenzo de silvestri,26,italy,ac florenz,italy,RB,defender,75,76,uc sampdoria,serie a,1,italy,2.12,3.15,0,36,0.9,1.33,2,3,3175,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,out,blerim dzemaili,28,switzerland,ssc neapel,italy,CM,midfielder,75,79,galatasaray istanbul,super lig,1,turkey,2.12,8.55,309,29,0.57,2.28,6,4,1882,3,0.5,2,0,0,242,1,0.25,1,0,0,90,2014/2015
+uc sampdoria,serie a,1,italy,in,lorenzo de silvestri,26,italy,ac florenz,italy,RB,defender,75,76,ac florenz,serie a,1,italy,2.12,3.15,0,36,0.9,1.33,2,3,3175,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,simon makienok,23,denmark,brondby if,denmark,CF,attacker,68,76,brondby if,superligaen,1,denmark,2.07,1.58,675,25,0.96,1.56,13,4,1860,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,gaston silva,20,uruguay,defensor sporting club,uruguay,CB,defender,NA,NA,defensor sporting club,primera division clausura,1,uruguay,2.07,0.9,0,21,0.66,1.52,0,1,1455,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,james troisi,25,australia,atalanta bergamo,italy,AM,midfielder,67,71,juventus turin,serie a,1,italy,1.8,1.08,0,35,1,1.54,15,4,2739,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,out,mauricio pinilla,30,chile,cagliari calcio,italy,CF,attacker,76,76,fc genua 1893,serie a,1,italy,1.8,2.88,0,27,0.93,1.07,8,3,1684,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,federico agliardi,31,italy,fc bologna,italy,GK,keeper,69,70,fc bologna,serie b,2,italy,1.8,0.63,371,5,0.14,2.2,0,0,392,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,francesco urso,20,italy,ac cesena,italy,DM,midfielder,NA,NA,vicenza calcio,serie b,2,italy,1.8,0.068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,out,cyril thereau,31,france,chievo verona,italy,SS,attacker,76,76,udinese calcio,serie a,1,italy,1.8,2.7,0,34,0.94,0.88,8,1,2497,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,in,mauricio pinilla,30,chile,cagliari calcio,italy,CF,attacker,76,76,cagliari calcio,serie a,1,italy,1.8,2.88,0,27,0.93,1.07,8,3,1684,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,in,iago falque,24,spain,tottenham hotspur,england,RW,attacker,72,81,tottenham hotspur,premier league,1,england,1.8,1.62,339,33,0.92,1.42,6,4,2373,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,james troisi,25,australia,atalanta bergamo,italy,AM,midfielder,67,71,atalanta bergamo,serie a,1,italy,1.8,1.08,0,35,1,1.54,15,4,2739,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,stefano beltrame,21,italy,juventus turin,italy,AM,midfielder,61,75,uc sampdoria,serie a,1,italy,1.8,0.495,0,24,0.57,1.46,1,3,961,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,in,mariano andujar,30,argentina,catania calcio,italy,GK,keeper,72,72,catania calcio,serie b,2,italy,1.8,3.42,0,25,0.74,0.56,0,0,2250,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,NA,italy,in,ivaylo chochev,21,bulgaria,zska sofia,bulgaria,CM,midfielder,NA,NA,zska sofia,a grupa championship group,NA,bulgaria,1.8,1.8,360,38,0.97,1.87,9,3,3125,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,robin quaison,20,sweden,aik stockholm,sweden,SS,attacker,65,76,aik stockholm,allsvenskan,1,sweden,1.8,0.63,353,11,1,1.91,3,3,829,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,andrea costa,28,italy,uc sampdoria,italy,CB,defender,73,75,uc sampdoria,serie a,1,italy,1.8,1.26,0,21,0.58,1.1,0,1,1702,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,in,stefano beltrame,21,italy,juventus turin,italy,AM,midfielder,61,75,juventus turin,serie a,1,italy,1.8,0.495,0,24,0.57,1.46,1,3,961,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,andrea costa,28,italy,uc sampdoria,italy,CB,defender,73,75,fc parma,serie a,1,italy,1.8,1.26,0,21,0.58,1.1,0,1,1702,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,in,bruno peres,24,brazil,fc santos,brazil,RB,defender,70,75,fc santos,campeonato brasileiro serie a,1,brazil,1.8,0.54,0,2,0.29,0.5,0,0,124,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,cyril thereau,31,france,chievo verona,italy,SS,attacker,76,76,chievo verona,serie a,1,italy,1.8,2.7,0,34,0.94,0.88,8,1,2497,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,nico hidalgo,22,spain,fc granada b,spain,RW,attacker,NA,NA,fc granada b,segunda division b grupo iv,3,spain,1.75,-,0,35,0.97,1.51,7,0,2197,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,vincenzo fiorillo,24,italy,uc sampdoria,italy,GK,keeper,70,73,uc sampdoria,serie a,1,italy,1.71,0.63,0,7,0.18,1,0,0,630,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,patrice evra,33,france,manchester united,england,LB,defender,80,80,manchester united,premier league,1,england,1.71,6.75,350,45,0.96,1.69,3,7,3889,8,1,1.75,1,1,700,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,vincenzo fiorillo,24,italy,uc sampdoria,italy,GK,keeper,70,73,juventus turin,serie a,1,italy,1.71,0.63,0,7,0.18,1,0,0,630,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,kevin mendez,18,uruguay,ca penarol montevideo,uruguay,CF,attacker,NA,NA,ca penarol montevideo,primera division clausura,1,uruguay,1.62,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,in,jose campana,21,spain,crystal palace,england,CM,midfielder,NA,NA,crystal palace,premier league,1,england,1.62,1.8,1080,16,0.67,0.56,1,3,899,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,alessio cragno,20,italy,brescia calcio,italy,GK,keeper,64,76,brescia calcio,serie b,2,italy,1.44,1.62,0,31,0.91,1.19,0,0,2790,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,NA,italy,in,felice di cecco,20,italy,brescia primavera,italy,DM,midfielder,NA,NA,brescia primavera,campionato primavera girone b,1,italy,1.44,0.023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,andrea rossini,24,italy,ac cesena,italy,GK,keeper,61,68,fc parma,serie a,1,italy,1.44,0.18,0,6,0.24,1.33,0,0,494,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,andrea rossini,24,italy,ac cesena,italy,GK,keeper,61,68,ac cesena,serie a,1,italy,1.44,0.18,0,6,0.24,1.33,0,0,494,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,simone colombi,23,italy,atalanta bergamo,italy,GK,keeper,65,76,cagliari calcio,serie a,1,italy,1.35,1.35,0,34,0.81,1.06,0,0,2958,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,simone colombi,23,italy,atalanta bergamo,italy,GK,keeper,65,76,atalanta bergamo,serie a,1,italy,1.35,1.35,0,34,0.81,1.06,0,0,2958,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,mohamed traore,22,guinea,fc parma,italy,RB,defender,NA,NA,fc parma,serie a,1,italy,1.35,0.068,0,5,0.42,2,0,0,223,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,nicolo lolli,19,italy,ac cesena,italy,CF,attacker,NA,NA,fc parma,serie a,1,italy,1.35,0.09,0,19,0.7,0.84,2,0,1155,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,maxi lopez,30,argentina,catania calcio,italy,CF,attacker,72,72,catania calcio,serie b,2,italy,1.35,3.15,371,24,0.77,0.75,2,2,1250,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,edoardo goldaniga,20,italy,us palermo,italy,CB,defender,NA,NA,us palermo,serie a,1,italy,1.35,0.225,0,33,0.97,1.67,2,0,2951,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,cristian pasquato,24,italy,udinese calcio,italy,SS,attacker,71,76,udinese calcio,serie a,1,italy,1.35,1.44,0,39,0.89,0.9,8,5,2703,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,luca castiglia,25,italy,juventus turin,italy,CM,midfielder,64,70,fc pro vercelli 1892,serie b,2,italy,1.35,0.18,0,19,0.66,1.42,0,0,517,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,NA,italy,in,eric lanini,20,italy,juventus primavera,italy,CF,attacker,NA,NA,juventus primavera,campionato primavera girone a,1,italy,1.35,0.225,1466,23,0.88,1.26,7,1,1716,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,out,edoardo goldaniga,20,italy,us palermo,italy,CB,defender,NA,NA,juventus turin,serie a,1,italy,1.35,0.225,0,33,0.97,1.67,2,0,2951,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,nicolo lolli,19,italy,ac cesena,italy,CF,attacker,NA,NA,ac cesena,serie a,1,italy,1.35,0.09,0,19,0.7,0.84,2,0,1155,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,mohamed traore,22,guinea,fc parma,italy,RB,defender,NA,NA,ac cesena,serie a,1,italy,1.35,0.068,0,5,0.42,2,0,0,223,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,valerio verre,20,italy,udinese calcio,italy,AM,midfielder,65,76,udinese calcio,serie a,1,italy,1.35,1.8,0,20,0.65,1.85,0,5,929,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,melker hallberg,18,sweden,kalmar ff,sweden,CM,midfielder,64,77,kalmar ff,allsvenskan,1,sweden,1.35,0.81,0,14,0.93,1.71,1,2,1114,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,out,valerio verre,20,italy,udinese calcio,italy,AM,midfielder,65,76,as rom,serie a,1,italy,1.35,1.8,0,20,0.65,1.85,0,5,929,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,out,cristian pasquato,24,italy,udinese calcio,italy,SS,attacker,71,76,juventus turin,serie a,1,italy,1.35,1.44,0,39,0.89,0.9,8,5,2703,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,out,luca rigoni,29,italy,chievo verona,italy,CM,midfielder,74,77,us palermo,serie a,1,italy,1.26,4.05,0,34,1,1.03,4,2,3020,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,luca rigoni,29,italy,chievo verona,italy,CM,midfielder,74,77,chievo verona,serie a,1,italy,1.26,4.05,0,34,1,1.03,4,2,3020,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,joao pedro,22,brazil,gd estoril praia,portugal,SS,attacker,71,77,gd estoril praia,primeira liga,1,portugal,1.17,1.35,0,41,0.89,1.68,9,5,2236,0,0,0,0,0,0,8,1,1.13,0,1,420,2014/2015
+fc genua 1893,serie a,1,italy,out,davide biondini,31,italy,fc genua 1893,italy,CM,midfielder,70,70,us sassuolo,serie a,1,italy,1.17,1.62,371,32,0.91,1.13,2,2,2501,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,lazaros christodoulopoulos,27,greece,fc bologna,italy,RW,attacker,75,76,fc bologna,serie b,2,italy,1.17,1.44,0,29,0.74,0.79,2,3,1978,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,in,suso,21,spain,fc liverpool,england,RW,attacker,74,83,fc liverpool,premier league,1,england,1.17,5.4,168,35,0.9,0.97,3,9,2433,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,in,davide biondini,31,italy,fc genua 1893,italy,CM,midfielder,70,70,fc genua 1893,serie a,1,italy,1.17,1.62,371,32,0.91,1.13,2,2,2501,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,agostino camigliano,19,italy,brescia calcio,italy,CB,defender,NA,NA,brescia calcio,serie b,2,italy,1.17,0.45,0,22,0.65,1.45,0,0,1849,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,in,andrea bandini,20,italy,fc bologna,italy,RB,defender,NA,NA,fc bologna,serie b,2,italy,1.13,0.135,0,18,0.64,1,0,0,1357,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,in,rene krhin,24,slovenia,fc bologna,italy,CM,midfielder,72,75,fc bologna,serie b,2,italy,1.08,2.43,0,28,0.82,0.89,0,0,2146,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,laurentiu branescu,20,romania,ss virtus lanciano,italy,GK,keeper,61,71,ss virtus lanciano,serie b,2,italy,1.08,0.27,0,5,0.17,0.8,0,0,480,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,elio de silvestro,21,italy,juventus turin,italy,RW,attacker,NA,NA,ss virtus lanciano,serie b,2,italy,1.08,0.248,893,27,1,1.15,5,3,1875,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,renan,28,brazil,uc sampdoria,italy,DM,midfielder,69,73,al nasr dubai ,uae arabian gulf league,1,united arab emirates,1.08,1.35,0,20,0.51,1.75,3,0,825,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,raphael martinho,26,brazil,hellas verona,italy,LM,midfielder,74,76,catania calcio,serie b,2,italy,0.99,1.8,0,22,0.65,1.18,2,2,953,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,simone addessi,19,italy,us latina calcio,italy,LW,attacker,53,57,us latina calcio,serie b,2,italy,0.959,0.045,0,21,0.88,0.9,9,0,1740,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,in,yohan benalouane,27,tunisia,fc parma,italy,CB,defender,71,76,fc parma,serie a,1,italy,0.9,0.81,736,23,0.62,1.39,0,1,1826,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,alessandro capello,18,italy,fc bologna,italy,CF,attacker,NA,NA,fc bologna,serie b,2,italy,0.9,0.72,0,26,0.93,1.77,8,0,1646,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,marco capuano,23,italy,delfino pescara 1936,italy,CB,defender,72,78,delfino pescara 1936,serie b,2,italy,0.9,1.08,518,25,0.93,1.36,0,0,2083,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,in,simone benedetti,22,italy,inter mailand,italy,CB,defender,64,77,inter mailand,serie a,1,italy,0.9,0.81,0,35,0.83,1.2,0,0,3072,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,carlo crialese,21,italy,fc parma,italy,LB,defender,NA,NA,fc parma,serie a,1,italy,0.9,0.09,0,15,0.75,0.73,0,0,1015,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,out,gianluca turchetta,23,italy,ac cesena,italy,LW,attacker,NA,NA,fc parma,serie a,1,italy,0.9,0.135,1101,29,0.85,1.86,3,2,1704,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac florenz,serie a,1,italy,in,joshua brillante,21,australia,newcastle united jets,australia,CM,midfielder,61,68,newcastle united jets,a league,1,australia,0.9,0.315,0,24,0.96,1.42,0,3,1947,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,in,aleandro rosi,27,italy,fc parma,italy,RB,defender,69,72,fc parma,serie a,1,italy,0.9,0.9,1096,19,0.58,1.47,3,1,1106,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,rafael marquez,35,mexico,club leon fc,mexico,CB,defender,75,75,club leon fc,liga mx clausura,1,mexico,0.9,0.9,0,39,0.95,1.85,1,0,3408,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,out,simone benedetti,22,italy,inter mailand,italy,CB,defender,64,77,cagliari calcio,serie a,1,italy,0.9,0.81,0,35,0.83,1.2,0,0,3072,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,hordur magnusson,21,iceland,spezia calcio,italy,CB,defender,62,75,spezia calcio,serie b,2,italy,0.9,0.36,0,21,0.51,1.71,0,0,1696,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,daniele casiraghi,21,italy,us lecce,italy,AM,midfielder,NA,NA,us lecce,prima divisione b,3,italy,0.9,0.18,0,23,0.88,1.04,0,0,1183,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,gianluca turchetta,23,italy,ac cesena,italy,LW,attacker,NA,NA,ac cesena,serie a,1,italy,0.9,0.135,1101,29,0.85,1.86,3,2,1704,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,yohan benalouane,27,tunisia,fc parma,italy,CB,defender,71,76,atalanta bergamo,serie a,1,italy,0.9,0.81,736,23,0.62,1.39,0,1,1826,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,carlo crialese,21,italy,fc parma,italy,LB,defender,NA,NA,ac cesena,serie a,1,italy,0.9,0.09,0,15,0.75,0.73,0,0,1015,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,aleandro rosi,27,italy,fc parma,italy,RB,defender,69,72,fc genua 1893,serie a,1,italy,0.9,0.9,1096,19,0.58,1.47,3,1,1106,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,jose holebas,30,greece,olympiakos piraus,greece,LB,defender,72,72,olympiakos piraus,super league,1,greece,0.9,2.25,0,29,0.88,2.48,2,5,2479,7,0.88,1.86,0,1,553,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,out,valerio verre,20,italy,as rom,italy,AM,midfielder,65,76,udinese calcio,serie a,1,italy,0.81,1.8,1089,20,0.65,1.85,0,5,929,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,in,valerio verre,20,italy,as rom,italy,AM,midfielder,65,76,as rom,serie a,1,italy,0.81,1.8,1089,20,0.65,1.85,0,5,929,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,nicola bellomo,23,italy,fc turin,italy,AM,midfielder,68,80,fc turin,serie a,1,italy,0.72,1.35,0,29,0.67,1.14,6,4,1717,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,carlo pinsoglio,24,italy,vicenza calcio,italy,GK,keeper,65,72,vicenza calcio,serie b,2,italy,0.72,0.63,736,39,0.85,1.54,0,0,3510,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,in,frederik sorensen,22,denmark,fc bologna,italy,CB,defender,70,80,fc bologna,serie b,2,italy,0.72,4.05,0,16,0.53,1,0,0,1217,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,daniele gastaldello,31,italy,uc sampdoria,italy,CB,defender,74,74,fc bologna,serie b,2,italy,0.72,2.7,0,32,0.91,1.38,2,0,2633,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,out,nicola bellomo,23,italy,fc turin,italy,AM,midfielder,68,80,chievo verona,serie a,1,italy,0.72,1.35,0,29,0.67,1.14,6,4,1717,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,anders christiansen,24,denmark,fc nordsjaelland,denmark,CM,midfielder,63,72,fc nordsjaelland,superligaen,1,denmark,0.675,0.81,535,39,1,1.38,3,6,2945,0,0,0,0,0,0,2,1,0.5,0,0,161,2014/2015
+lazio rom,serie a,1,italy,in,santiago gentiletti,29,argentina,club atletico san lorenzo de almagro,argentina,CB,defender,70,71,club atletico san lorenzo de almagro,torneo inicial,1,argentina,0.675,0.81,0,39,0.85,1.62,2,1,3483,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+inter mailand,serie a,1,italy,in,cristiano biraghi,21,italy,as cittadella,italy,LM,midfielder,67,74,as cittadella,serie b,2,italy,0.63,1.8,0,23,0.66,0.74,0,1,1555,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,achraf lazaar,22,morocco,as varese 1910,italy,LB,defender,63,76,as varese 1910,serie b,2,italy,0.63,0.45,0,34,0.89,1.79,0,2,2602,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,lucas souza,24,brazil,sporting olhanense,portugal,DM,midfielder,63,66,sporting olhanense,segunda liga,2,portugal,0.63,0.63,0,20,0.87,0.7,1,1,1695,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,NA,italy,in,mario gargiulo,18,italy,brescia primavera,italy,CM,midfielder,NA,NA,brescia primavera,campionato primavera girone b,1,italy,0.54,0.068,0,26,0.93,1.69,1,0,2065,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+juventus turin,serie a,1,italy,out,niko bianconi,22,italy,juventus turin,italy,CF,attacker,NA,NA,vicenza calcio,serie b,2,italy,0.54,0.023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac florenz,serie a,1,italy,out,marvin compper,29,germany,ac florenz,italy,CB,defender,72,74,rasenballsport leipzig,2 bundesliga,2,germany,0.495,1.8,0,19,0.39,2.37,1,0,1558,0,0,0,0,0,0,7,0.7,2.43,0,0,630,2014/2015
+hellas verona,serie a,1,italy,out,michelangelo albertazzi,23,italy,hellas verona,italy,LB,defender,67,75,ac mailand,serie a,1,italy,0.495,0.36,0,17,0.52,1.65,0,1,1392,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac mailand,serie a,1,italy,in,michelangelo albertazzi,23,italy,hellas verona,italy,LB,defender,67,75,hellas verona,serie a,1,italy,0.495,0.36,0,17,0.52,1.65,0,1,1392,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,out,paul papp,25,romania,chievo verona,italy,CB,defender,NA,NA,steaua bukarest,liga 1,1,romania,0.45,1.8,914,20,0.56,1.55,2,0,1570,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,out,marco silvestri,23,italy,chievo verona,italy,GK,keeper,69,76,leeds united,championship,2,england,0.45,0.45,0,5,0.12,1.2,0,1,414,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us palermo,serie a,1,italy,in,joao silva,24,portugal,as bari,italy,CF,attacker,NA,NA,as bari,serie b,2,italy,0.45,0.81,0,47,0.98,1.51,8,5,3263,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,riccardo brosco,23,italy,fc parma,italy,CB,defender,64,72,us latina calcio,serie b,2,italy,0.45,0.63,0,40,0.93,1.45,0,0,3225,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,slawomir peszko,29,poland,fc parma,italy,LW,attacker,71,71,1 fc koln,1 bundesliga,1,germany,0.45,0.9,736,26,0.9,2.08,3,6,1327,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+as rom,serie a,1,italy,in,stefano pettinari,22,italy,fc crotone,italy,CF,attacker,64,70,fc crotone,serie b,2,italy,0.45,0.72,0,36,0.9,1.44,11,1,2488,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,luka krajnc,19,slovenia,fc genua 1893,italy,CB,defender,64,76,fc genua 1893,serie a,1,italy,0.405,1.35,0,26,0.79,1.81,1,0,2180,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,luka krajnc,19,slovenia,fc genua 1893,italy,CB,defender,64,76,ac cesena,serie a,1,italy,0.405,1.35,0,26,0.79,1.81,1,0,2180,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,in,armando izzo,22,italy,as avellino 1912,italy,CB,defender,65,70,as avellino 1912,serie b,2,italy,0.36,0.72,0,34,0.92,1.56,1,0,2912,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,fabrizio cacciatore,27,italy,hellas verona,italy,RB,defender,70,72,uc sampdoria,serie a,1,italy,0.36,1.71,0,32,0.84,1.38,3,0,2613,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,in,fabrizio cacciatore,27,italy,hellas verona,italy,RB,defender,70,72,hellas verona,serie a,1,italy,0.36,1.71,0,32,0.84,1.38,3,0,2613,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc empoli,serie a,1,italy,in,francesco colombini,21,italy,tuttocuoio san miniato,italy,CB,defender,NA,NA,tuttocuoio san miniato,prima divisione b,3,italy,0.324,0.113,520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,guillermo rodriguez,30,uruguay,fc turin,italy,CB,defender,73,73,fc turin,serie a,1,italy,0.324,0.45,0,8,0.3,1.25,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,out,guillermo rodriguez,30,uruguay,fc turin,italy,CB,defender,73,73,hellas verona,serie a,1,italy,0.324,0.45,0,8,0.3,1.25,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc empoli,serie a,1,italy,out,matteo bachini,19,italy,fc empoli,italy,CB,defender,56,69,tuttocuoio san miniato,prima divisione b,3,italy,0.315,0.068,0,14,0.88,2.36,1,0,1184,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,in,diego perotti,25,argentina,fc sevilla,spain,LW,attacker,75,83,fc sevilla,primera division,1,spain,0.315,2.93,369,20,0.77,1.7,5,2,986,0,0,0,0,0,0,7,1,2.14,3,1,442,2014/2015
+chievo verona,serie a,1,italy,out,pablo granoche,30,uruguay,chievo verona,italy,CF,attacker,69,69,modena fc 1912,serie b,2,italy,0.306,0.36,0,31,0.74,1.68,11,4,1962,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,out,sebastian eriksson,26,sweden,cagliari calcio,italy,DM,midfielder,70,76,ifk goteborg,allsvenskan,1,sweden,0.293,0.9,765,25,0.68,1.6,1,0,1509,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,ze eduardo,22,brazil,fc parma,italy,DM,midfielder,62,79,fc parma,serie a,1,italy,0.27,0.72,0,41,1,1.46,3,5,3331,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,alessandro gamberini,32,italy,ssc neapel,italy,CB,defender,73,73,ssc neapel,serie a,1,italy,0.27,0.9,0,10,0.43,0.7,0,0,580,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,raffaele pucino,23,italy,us sassuolo,italy,RB,defender,63,67,us sassuolo,serie a,1,italy,0.27,0.45,0,8,0.26,0.88,0,0,663,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ssc neapel,serie a,1,italy,out,alessandro gamberini,32,italy,ssc neapel,italy,CB,defender,73,73,chievo verona,serie a,1,italy,0.27,0.9,0,10,0.43,0.7,0,0,580,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,out,ze eduardo,22,brazil,fc parma,italy,DM,midfielder,62,79,ac cesena,serie a,1,italy,0.27,0.72,0,41,1,1.46,3,5,3331,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,out,raffaele pucino,23,italy,us sassuolo,italy,RB,defender,63,67,chievo verona,serie a,1,italy,0.27,0.45,0,8,0.26,0.88,0,0,663,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,antonio mazzotta,25,italy,fc crotone,italy,LB,defender,65,69,fc crotone,serie b,2,italy,0.18,1.35,0,43,1,1.47,1,8,3851,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,in,francesco benussi,32,italy,udinese calcio,italy,GK,keeper,68,69,udinese calcio,serie a,1,italy,0.18,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc turin,serie a,1,italy,out,jean francois gillet,35,belgium,fc turin,italy,GK,keeper,79,79,catania calcio,serie b,2,italy,0.18,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+udinese calcio,serie a,1,italy,out,francesco benussi,32,italy,udinese calcio,italy,GK,keeper,68,69,hellas verona,serie a,1,italy,0.18,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+lazio rom,serie a,1,italy,out,tommaso ceccarelli,22,italy,lazio rom,italy,RW,attacker,NA,NA,laquila calcio,prima divisione b,3,italy,0.135,0.27,308,28,1,1.32,7,0,1952,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,stefano lucchini,33,italy,atalanta bergamo,italy,CB,defender,75,75,ac cesena,serie a,1,italy,0.09,0.45,0,20,0.67,1.8,1,0,1309,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+atalanta bergamo,serie a,1,italy,out,franco brienza,35,italy,atalanta bergamo,italy,AM,midfielder,73,73,ac cesena,serie a,1,italy,0.09,0.27,0,18,0.58,1.61,1,1,699,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+cagliari calcio,serie a,1,italy,out,gabriele perico,30,italy,cagliari calcio,italy,RB,defender,69,69,ac cesena,serie a,1,italy,0.09,0.36,0,21,0.68,0.9,0,1,1316,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,franco brienza,35,italy,atalanta bergamo,italy,AM,midfielder,73,73,atalanta bergamo,serie a,1,italy,0.09,0.27,0,18,0.58,1.61,1,1,699,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,stefano lucchini,33,italy,atalanta bergamo,italy,CB,defender,75,75,atalanta bergamo,serie a,1,italy,0.09,0.45,0,20,0.67,1.8,1,0,1309,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+ac cesena,serie a,1,italy,in,gabriele perico,30,italy,cagliari calcio,italy,RB,defender,69,69,cagliari calcio,serie a,1,italy,0.09,0.36,0,21,0.68,0.9,0,1,1316,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+chievo verona,serie a,1,italy,in,albano bizzarri,36,argentina,fc genua 1893,italy,GK,keeper,74,74,fc genua 1893,serie a,1,italy,0.09,0.09,0,1,0.03,3,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc genua 1893,serie a,1,italy,out,albano bizzarri,36,argentina,fc genua 1893,italy,GK,keeper,74,74,chievo verona,serie a,1,italy,0.09,0.09,0,1,0.03,3,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,massimo donati,33,italy,hellas verona,italy,DM,midfielder,72,72,as bari,serie b,2,italy,0.09,0.45,0,22,0.67,1.82,1,1,1140,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+hellas verona,serie a,1,italy,out,domenico maietta,31,italy,hellas verona,italy,CB,defender,71,71,fc bologna,serie b,2,italy,0.09,0.81,0,26,0.87,1.35,0,0,2065,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,pedro mendes,23,portugal,us sassuolo,italy,CB,defender,70,76,us sassuolo,serie a,1,italy,0.09,0.9,0,16,0.42,1.25,0,1,1164,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,gaetano berardi,25,switzerland,uc sampdoria,italy,CB,defender,68,74,leeds united,championship,2,england,0.09,0.45,0,5,0.22,0.4,0,0,323,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+us sassuolo,serie a,1,italy,out,pedro mendes,23,portugal,us sassuolo,italy,CB,defender,70,76,fc parma,serie a,1,italy,0.09,0.9,0,16,0.42,1.25,0,1,1164,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,NA,italy,in,marijan coric,19,croatia,nk istra 1961 u19,croatia,GK,keeper,NA,NA,nk istra 1961 u19,NA,1,croatia,0.018,0.045,1086,22,0.56,1.82,0,0,1980,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+uc sampdoria,serie a,1,italy,out,birkir bjarnason,26,iceland,uc sampdoria,italy,CM,midfielder,70,75,delfino pescara 1936,serie b,2,italy,0.018,0.9,0,19,0.51,1.84,1,1,1139,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc empoli,serie a,1,italy,out,simone della latta,21,italy,fc empoli,italy,CM,midfielder,NA,NA,us citta di pontedera,prima divisione b,3,italy,0.007,0.158,0,25,0.89,0.8,0,0,1447,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015
+fc parma,serie a,1,italy,in,matteo di gennaro,20,italy,ascoli calcio,italy,CB,defender,NA,NA,ascoli calcio,prima divisione b,3,italy,,0.068,0,13,0.68,0.77,0,0,830,0,0,0,0,0,0,0,0,0,0,0,0,2014/2015

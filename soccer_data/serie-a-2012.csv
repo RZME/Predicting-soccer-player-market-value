@@ -1,0 +1,270 @@
+club,club_league,club_league_tier,club_country,transfer_movement,player_name,player_age,player_nationality,player_club,player_club_country,player_position,player_position_category,player_rating,player_potential,club_involved,club_involved_league,club_involved_league_tier,club_involved_country,transfer_fee,market_value,remaining_contract_duration,total_apps,total_apps_ratio,total_minutes_per_point,total_goals,total_assists,total_minutes_played,ucl_apps,ucl_apps_ratio,ucl_minutes_per_point,ucl_goals,ucl_assists,ucl_minutes_played,el_apps,el_apps_ratio,el_minutes_per_point,el_goals,el_assists,el_minutes_played,season
+ac mailand,serie a,1,italy,out,thiago silva,27,brazil,ac mailand,italy,CB,defender,87,89,fc paris saint germain,ligue 1,1,france,37.8,34.2,0,37,1,1.89,3,0,3184,7,1,1.29,1,0,590,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,out,ezequiel lavezzi,27,argentina,ssc neapel,italy,SS,attacker,85,88,fc paris saint germain,ligue 1,1,france,27,27,1099,42,1,1.64,11,13,3160,8,1,1.75,2,5,699,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,zlatan ibrahimovic,30,sweden,ac mailand,italy,CF,attacker,88,88,fc paris saint germain,ligue 1,1,france,18.9,33.3,1083,44,0.96,1.98,35,12,3807,8,0.89,1.38,5,4,720,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,in,mario balotelli,22,italy,manchester city,england,CF,attacker,83,88,manchester city,premier league,1,england,18,21.6,0,32,0.82,2.09,17,2,1881,3,1,2,2,1,181,3,0.75,2,1,0,187,2012/2013
+juventus turin,serie a,1,italy,in,kwadwo asamoah,23,ghana,udinese calcio,italy,LM,midfielder,77,80,udinese calcio,serie a,1,italy,16.2,13.5,0,40,0.98,1.78,3,3,3385,0,0,0,0,0,0,7,0.88,2,0,1,476,2012/2013
+udinese calcio,serie a,1,italy,out,kwadwo asamoah,23,ghana,udinese calcio,italy,LM,midfielder,77,80,juventus turin,serie a,1,italy,16.2,13.5,0,40,0.98,1.78,3,3,3385,0,0,0,0,0,0,7,0.88,2,0,1,476,2012/2013
+fc bologna,serie a,1,italy,out,gaston ramirez,21,uruguay,fc bologna,italy,AM,midfielder,76,87,fc southampton,premier league,1,england,13.68,12.15,0,33,1,1.42,8,5,2305,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,out,matija nastasic,19,serbia,ac florenz,italy,CB,defender,72,88,manchester city,premier league,1,england,13.68,4.95,0,27,0.71,1.41,2,0,2130,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,alexandre pato,23,brazil,ac mailand,italy,CF,attacker,84,90,corinthians sao paulo,campeonato brasileiro serie a,1,brazil,13.5,25.65,0,18,0.95,1.56,4,4,869,5,1,1,2,1,244,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,out,samir handanovic,27,slovenia,udinese calcio,italy,GK,keeper,82,84,inter mailand,serie a,1,italy,13.5,13.5,0,51,1,1.57,0,0,4590,0,0,0,0,0,0,10,1,1.6,0,0,900,2012/2013
+inter mailand,serie a,1,italy,in,samir handanovic,27,slovenia,udinese calcio,italy,GK,keeper,82,84,udinese calcio,serie a,1,italy,13.5,13.5,0,51,1,1.57,0,0,4590,0,0,0,0,0,0,10,1,1.6,0,0,900,2012/2013
+juventus turin,serie a,1,italy,in,mauricio isla,24,chile,udinese calcio,italy,RB,defender,80,83,udinese calcio,serie a,1,italy,12.51,12.6,0,28,0.97,1.57,3,2,2239,0,0,0,0,0,0,5,0.83,1.2,0,0,243,2012/2013
+udinese calcio,serie a,1,italy,out,mauricio isla,24,chile,udinese calcio,italy,RB,defender,80,83,juventus turin,serie a,1,italy,12.51,12.6,0,28,0.97,1.57,3,2,2239,0,0,0,0,0,0,5,0.83,1.2,0,0,243,2012/2013
+as rom,serie a,1,italy,out,fabio borini,21,italy,as rom,italy,LW,attacker,75,84,fc liverpool,premier league,1,england,11.97,8.1,0,26,0.87,1.19,10,0,1744,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,philippe coutinho,20,brazil,inter mailand,italy,AM,midfielder,74,87,fc liverpool,premier league,1,england,11.7,8.1,885,24,0.86,1.13,6,2,1505,3,0.75,0.33,0,0,79,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,in,giampaolo pazzini,28,italy,inter mailand,italy,CF,attacker,84,87,inter mailand,serie a,1,italy,11.25,13.05,0,40,0.85,1.58,8,5,2405,6,0.75,2.17,3,1,232,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,giampaolo pazzini,28,italy,inter mailand,italy,CF,attacker,84,87,ac mailand,serie a,1,italy,11.25,13.05,0,40,0.85,1.58,8,5,2405,6,0.75,2.17,3,1,232,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,out,marco verratti,19,italy,delfino pescara 1936,italy,CM,midfielder,66,76,fc paris saint germain,ligue 1,1,france,10.8,9,0,32,1,2,0,9,2407,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,paulo dybala,18,argentina,instituto ac cordoba,argentina,SS,attacker,NA,NA,instituto ac cordoba,primera b nacional,2,argentina,10.71,1.8,0,15,1,1.6,8,0,1144,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,sebastian giovinco,25,italy,fc parma,italy,SS,attacker,81,87,fc parma,serie a,1,italy,9.9,11.25,0,38,1,1.53,16,13,3200,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,manolo gabbiadini,20,italy,atalanta bergamo,italy,CF,attacker,71,83,atalanta bergamo,serie a,1,italy,9.9,4.05,0,24,0.69,1.17,2,2,829,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,mateo kovacic,18,croatia,gnk dinamo zagreb,croatia,CM,midfielder,NA,NA,gnk dinamo zagreb,1 hnl,1,croatia,9.9,2.7,0,37,0.93,1.97,5,7,2308,6,1,0,1,0,411,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,fredy guarin,26,colombia,fc porto,portugal,CM,midfielder,80,84,fc porto,primeira liga,1,portugal,9.9,10.8,0,17,0.81,1.88,1,4,1071,2,1,0.5,0,0,120,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,out,sebastian giovinco,25,italy,fc parma,italy,SS,attacker,81,87,juventus turin,serie a,1,italy,9.9,11.25,0,38,1,1.53,16,13,3200,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,out,manolo gabbiadini,20,italy,atalanta bergamo,italy,CF,attacker,71,83,juventus turin,serie a,1,italy,9.9,4.05,0,24,0.69,1.17,2,2,829,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,rodrigo palacio,30,argentina,fc genua 1893,italy,CF,attacker,81,81,fc genua 1893,serie a,1,italy,9.45,10.8,0,34,1,1.24,21,6,2899,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,rodrigo palacio,30,argentina,fc genua 1893,italy,CF,attacker,81,81,inter mailand,serie a,1,italy,9.45,10.8,0,34,1,1.24,21,6,2899,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,alvaro pereira,26,uruguay,fc porto,portugal,LB,defender,80,83,fc porto,primeira liga,1,portugal,9,14.4,678,34,0.94,2.06,1,4,2954,6,1,1.33,0,0,540,1,1,0,0,0,90,2012/2013
+ac florenz,serie a,1,italy,in,giuseppe rossi,25,italy,fc villarreal,spain,CF,attacker,84,87,fc villarreal,segunda division,2,spain,9,9,0,14,1,0.71,5,1,1198,3,1,0,0,1,270,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,martin caceres,25,uruguay,fc sevilla,spain,CB,defender,78,87,fc sevilla,primera division,1,spain,7.2,8.55,1101,32,0.74,1.66,4,2,2455,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,in,kevin constant,25,guinea,fc genua 1893,italy,CM,midfielder,75,83,fc genua 1893,serie a,1,italy,7.2,5.4,1254,23,0.92,1.35,1,1,1472,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,davide faraoni,20,italy,inter mailand,italy,RB,defender,NA,NA,inter mailand,serie a,1,italy,7.2,3.6,0,20,0.71,1.4,1,1,983,2,0.5,0.5,0,0,91,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,valon behrami,27,switzerland,ac florenz,italy,DM,midfielder,78,82,ac florenz,serie a,1,italy,7.2,7.2,0,33,0.97,1.24,0,1,2692,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,davide faraoni,20,italy,inter mailand,italy,RB,defender,NA,NA,udinese calcio,serie a,1,italy,7.2,3.6,0,20,0.71,1.4,1,1,983,2,0.5,0.5,0,0,91,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,out,valon behrami,27,switzerland,ac florenz,italy,DM,midfielder,78,82,ssc neapel,serie a,1,italy,7.2,7.2,0,33,0.97,1.24,0,1,2692,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,kevin constant,25,guinea,fc genua 1893,italy,CM,midfielder,75,83,ac mailand,serie a,1,italy,7.2,5.4,1254,23,0.92,1.35,1,1,1472,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,goran pandev,28,north macedonia,inter mailand,italy,SS,attacker,79,79,inter mailand,serie a,1,italy,6.75,9.9,0,42,0.93,1.67,7,6,1961,7,1,1.86,0,0,68,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,wesley sneijder,28,netherlands,inter mailand,italy,AM,midfielder,87,89,galatasaray istanbul,super lig,1,turkey,6.75,17.1,163,28,1,1.36,5,6,1955,5,1,1.8,0,1,372,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,goran pandev,28,north macedonia,inter mailand,italy,SS,attacker,79,79,ssc neapel,serie a,1,italy,6.75,9.9,0,42,0.93,1.67,7,6,1961,7,1,1.86,0,0,68,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,miguel veloso,26,portugal,fc genua 1893,italy,DM,midfielder,79,81,dynamo kiew,premier liga,1,ukraine,6.75,7.2,0,31,0.89,1.29,2,1,2273,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,milos krasic,27,serbia,juventus turin,italy,CM,midfielder,80,85,fenerbahce istanbul,super lig,1,turkey,6.3,9.9,0,9,0.64,1.89,1,0,371,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,borja valero,27,spain,fc villarreal,spain,CM,midfielder,82,84,fc villarreal,segunda division,2,spain,6.3,10.8,0,43,1,1.02,6,6,3698,3,1,0,0,0,258,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,mattia destro,21,italy,ac siena,italy,CF,attacker,72,87,fc genua 1893,serie a,1,italy,6.3,9,0,32,0.91,1.38,13,4,2304,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,mattia destro,21,italy,ac siena,italy,CF,attacker,72,87,ac siena,serie a,1,italy,6.3,9,0,32,0.91,1.38,13,4,2304,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,out,alessio cerci,25,italy,ac florenz,italy,RW,attacker,75,85,fc turin,serie a,1,italy,6.08,5.85,0,26,0.79,1.15,8,1,1690,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,alessio cerci,25,italy,ac florenz,italy,RW,attacker,75,85,ac florenz,serie a,1,italy,6.08,5.85,0,26,0.79,1.15,8,1,1690,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,alberto paloschi,23,italy,ac mailand,italy,CF,attacker,74,86,chievo verona,serie a,1,italy,5.85,4.5,0,36,0.86,1.39,6,4,2044,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,in,alberto paloschi,23,italy,ac mailand,italy,CF,attacker,74,86,ac mailand,serie a,1,italy,5.85,4.5,0,36,0.86,1.39,6,4,2044,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,luis neto,24,portugal,ac siena,italy,CB,defender,68,78,zenit st petersburg,premier liga,1,russia,5.85,4.23,0,33,0.82,1.55,1,1,2984,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,luc castaignos,19,netherlands,inter mailand,italy,CF,attacker,73,85,fc twente enschede,eredivisie,1,netherlands,5.4,4.05,0,11,0.46,1.45,3,0,426,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,marquinhos,18,brazil,corinthians sao paulo,brazil,CB,defender,64,80,corinthians sao paulo,campeonato brasileiro serie a,1,brazil,5.13,0.675,0,6,0.25,1.17,0,1,454,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,eljero elia,25,netherlands,juventus turin,italy,LW,attacker,79,86,sv werder bremen,1 bundesliga,1,germany,4.95,4.5,0,10,0.43,1.3,0,1,359,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,maicosuel,26,brazil,botafogo fr rio de janeiro,brazil,LW,attacker,77,78,botafogo fr rio de janeiro,campeonato brasileiro serie a,1,brazil,4.77,2.25,0,6,1,1.5,0,0,359,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,ezequiel schelotto,23,italy,atalanta bergamo,italy,RB,defender,76,87,atalanta bergamo,serie a,1,italy,4.77,5.85,0,38,1,1.34,2,7,2866,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,out,ezequiel schelotto,23,italy,atalanta bergamo,italy,RB,defender,76,87,inter mailand,serie a,1,italy,4.77,5.85,0,38,1,1.34,2,7,2866,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,marko livaja,19,croatia,inter mailand,italy,CF,attacker,62,79,atalanta bergamo,serie a,1,italy,4.55,1.62,0,20,0.77,1.75,3,0,1473,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,marko livaja,19,croatia,inter mailand,italy,CF,attacker,62,79,inter mailand,serie a,1,italy,4.55,1.62,0,20,0.77,1.75,3,0,1473,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,antonio cassano,30,italy,ac mailand,italy,SS,attacker,84,84,inter mailand,serie a,1,italy,4.5,9,0,19,0.9,1.95,4,10,1218,3,1,2.33,1,0,214,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,out,german denis,30,argentina,udinese calcio,italy,CF,attacker,78,78,atalanta bergamo,serie a,1,italy,4.5,4.95,1101,34,0.97,1.41,16,3,2893,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,antonio cassano,30,italy,ac mailand,italy,SS,attacker,84,84,ac mailand,serie a,1,italy,4.5,9,0,19,0.9,1.95,4,10,1218,3,1,2.33,1,0,214,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,german denis,30,argentina,udinese calcio,italy,CF,attacker,78,78,udinese calcio,serie a,1,italy,4.5,4.95,1101,34,0.97,1.41,16,3,2893,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,federico balzaretti,30,italy,us palermo,italy,LB,defender,80,80,us palermo,serie a,1,italy,4.05,7.65,339,29,0.97,1.24,0,3,2363,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,jonathan biabiany,24,france,uc sampdoria,italy,RW,attacker,76,85,uc sampdoria,serie a,1,italy,4.05,7.2,0,38,0.95,1.47,6,9,2509,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,federico balzaretti,30,italy,us palermo,italy,LB,defender,80,80,as rom,serie a,1,italy,4.05,7.65,339,29,0.97,1.24,0,3,2363,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,out,jonathan biabiany,24,france,uc sampdoria,italy,RW,attacker,76,85,fc parma,serie a,1,italy,4.05,7.2,0,38,0.95,1.47,6,9,2509,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,nenad tomovi%c4%87,25,serbia,fc genua 1893,italy,CB,defender,72,82,fc genua 1893,serie a,1,italy,3.78,1.17,309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,nenad tomovi%c4%87,25,serbia,fc genua 1893,italy,CB,defender,72,82,ac florenz,serie a,1,italy,3.78,1.17,309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,richmond boakye,19,ghana,fc genua 1893,italy,CF,attacker,67,78,fc genua 1893,serie a,1,italy,3.6,4.5,0,36,0.86,1.83,12,2,1986,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,ciro immobile,22,italy,juventus turin,italy,CF,attacker,74,85,fc genua 1893,serie a,1,italy,3.6,5.85,0,37,1,1.92,28,6,3007,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,in,francesco acerbi,24,italy,chievo verona,italy,CB,defender,71,81,chievo verona,serie a,1,italy,3.6,4.05,0,22,0.81,1.45,1,0,1790,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,francesco acerbi,24,italy,ac mailand,italy,CB,defender,71,81,fc genua 1893,serie a,1,italy,3.6,3.6,0,22,0.81,1.45,1,0,1790,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,gabriel silva,21,brazil,fc granada,spain,LB,defender,70,78,fc granada,primera division,1,spain,3.6,2.25,1466,3,0.6,1.33,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,NA,italy,in,dorlan pabon,24,colombia,atletico nacional,colombia,RW,attacker,74,79,atletico nacional,liga postobon ii,1,colombia,3.6,2.52,0,15,1,1.47,12,1,1237,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,out,francesco acerbi,24,italy,chievo verona,italy,CB,defender,71,81,ac mailand,serie a,1,italy,3.6,4.05,0,22,0.81,1.45,1,0,1790,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,ciro immobile,22,italy,juventus turin,italy,CF,attacker,74,85,juventus turin,serie a,1,italy,3.6,5.85,0,37,1,1.92,28,6,3007,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,francesco acerbi,24,italy,ac mailand,italy,CB,defender,71,81,ac mailand,serie a,1,italy,3.6,3.6,0,22,0.81,1.45,1,0,1790,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,richmond boakye,19,ghana,fc genua 1893,italy,CF,attacker,67,78,juventus turin,serie a,1,italy,3.6,4.5,0,36,0.86,1.83,12,2,1986,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,nicola leali,19,italy,brescia calcio,italy,GK,keeper,67,88,brescia calcio,serie b,2,italy,3.42,3.15,0,18,0.49,0.94,0,0,1620,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,NA,italy,in,alexis rolin,23,uruguay,nacional montevideo,uruguay,CB,defender,NA,NA,nacional montevideo,primera division clausura,1,uruguay,3.42,0.81,0,34,0.97,2.12,4,1,3034,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,out,maicon,31,brazil,inter mailand,italy,RB,defender,85,85,manchester city,premier league,1,england,3.38,13.05,0,29,1,1.59,3,5,2542,3,1,2,0,0,225,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,michael bradley,24,united states,chievo verona,italy,CM,midfielder,75,80,chievo verona,serie a,1,italy,3.38,3.15,0,36,0.95,1.22,1,1,3043,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,out,michael bradley,24,united states,chievo verona,italy,CM,midfielder,75,80,as rom,serie a,1,italy,3.38,3.15,0,36,0.95,1.22,1,1,3043,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,ante vukusic,21,croatia,hnk hajduk split,croatia,CF,attacker,NA,NA,hnk hajduk split,1 hnl,1,croatia,3.33,4.5,680,26,1,1.54,12,2,1991,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,jonathas,23,brazil,brescia calcio,italy,CF,attacker,70,81,brescia calcio,serie b,2,italy,3.33,1.8,0,35,1,1.37,18,6,2924,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,luis neto,24,portugal,cd nacional,portugal,CB,defender,68,78,cd nacional,primeira liga,1,portugal,3.29,2.7,0,33,0.82,1.55,1,1,2984,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,andrea rossi,25,italy,ac siena,italy,LB,defender,64,70,ac siena,serie a,1,italy,3.24,0.27,0,15,0.56,1.6,0,3,1197,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,andrea rossi,25,italy,ac siena,italy,LB,defender,64,70,fc parma,serie a,1,italy,3.24,0.27,0,15,0.56,1.6,0,3,1197,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,out,barreto,27,brazil,udinese calcio,italy,SS,attacker,73,78,fc turin,serie a,1,italy,3.2,1.8,0,9,0.69,1.22,1,0,346,0,0,0,0,0,0,1,1,3,0,0,24,2012/2013
+fc turin,serie a,1,italy,in,barreto,27,brazil,udinese calcio,italy,SS,attacker,73,78,udinese calcio,serie a,1,italy,3.2,1.8,0,9,0.69,1.22,1,0,346,0,0,0,0,0,0,1,1,3,0,0,24,2012/2013
+ac mailand,serie a,1,italy,in,bartosz salamon,21,poland,brescia calcio,italy,CB,defender,66,79,brescia calcio,serie b,2,italy,3.15,2.52,0,25,0.86,1.28,1,2,2048,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,in,nigel de jong,27,netherlands,manchester city,england,DM,midfielder,81,83,manchester city,premier league,1,england,3.15,11.7,0,36,0.78,2.06,1,0,2163,5,1,1.8,0,0,269,4,1,2.25,0,0,314,2012/2013
+as rom,serie a,1,italy,in,marquinho,25,brazil,fluminense football club,brazil,AM,midfielder,66,69,fluminense football club,campeonato brasileiro serie a,1,brazil,3.15,4.05,0,15,1,1.4,3,1,969,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,ishak belfodil,20,algeria,olympique lyon,france,CF,attacker,NA,NA,olympique lyon,ligue 1,1,france,3.15,2.25,0,17,0.65,1.29,0,0,348,2,0.67,0.5,0,0,11,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,sokratis,24,greece,fc genua 1893,italy,CB,defender,76,80,sv werder bremen,1 bundesliga,1,germany,3.15,9,736,31,1,1.16,1,0,2635,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,in,eder,25,italy,ac cesena,italy,SS,attacker,NA,NA,ac cesena,serie b,2,italy,3.15,3.6,1101,38,0.95,1.55,7,6,2686,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,omar el kaddouri,22,morocco,brescia calcio,italy,CM,midfielder,NA,NA,brescia calcio,serie b,2,italy,3.06,3.6,316,40,1,1.5,7,4,3303,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,alessandro iacobucci,21,italy,ac siena,italy,GK,keeper,NA,NA,ac siena,serie a,1,italy,3.06,0.63,0,33,1,1.36,0,0,2928,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,alessandro iacobucci,21,italy,ac siena,italy,GK,keeper,NA,NA,fc parma,serie a,1,italy,3.06,0.63,0,33,1,1.36,0,0,2928,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,out,manuel coppola,30,italy,fc parma,italy,CM,midfielder,63,69,ac siena,serie a,1,italy,2.93,0.225,0,32,1,1.03,0,0,2371,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,1,italy,in,robert acquafresca,24,italy,fc genua 1893,italy,CF,attacker,74,80,fc genua 1893,serie a,1,italy,2.93,3.15,736,34,0.87,1.32,5,2,1773,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,manuel coppola,30,italy,fc parma,italy,CM,midfielder,63,69,fc parma,serie a,1,italy,2.93,0.225,0,32,1,1.03,0,0,2371,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,robert acquafresca,24,italy,fc genua 1893,italy,CF,attacker,74,80,fc bologna,serie a,1,italy,2.93,3.15,736,34,0.87,1.32,5,2,1773,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,1,italy,in,mauricio pinilla,28,chile,us palermo,italy,CF,attacker,78,78,us palermo,serie a,1,italy,2.88,3.6,734,28,0.93,1.32,10,2,1868,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,mauricio pinilla,28,chile,us palermo,italy,CF,attacker,78,78,cagliari calcio,serie a,1,italy,2.88,3.6,734,28,0.93,1.32,10,2,1868,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,in,renan,26,brazil,cfr cluj,romania,DM,midfielder,73,75,cfr cluj,liga 1,1,romania,2.88,2.7,0,36,0.95,2.11,3,9,3240,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,matias fernandez,26,chile,sporting lissabon,portugal,AM,midfielder,81,84,sporting lissabon,primeira liga,1,portugal,2.82,6.75,705,39,0.93,1.69,7,7,2538,0,0,0,0,0,0,11,1,1.64,3,3,762,2012/2013
+uc sampdoria,serie a,NA,italy,in,matias rodriguez,26,argentina,club universidad de chile,chile,RB,defender,NA,NA,club universidad de chile,primera division transicion,1,chile,2.79,1.26,0,52,0.96,1.9,17,6,4182,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,NA,italy,in,mbaye niang,17,senegal,sm caen,france,CF,attacker,NA,NA,sm caen,ligue 2,1,france,2.7,1.58,0,23,0.88,1,2,3,1043,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,willians,26,brazil,flamengo rio de janeiro,brazil,DM,midfielder,77,82,flamengo rio de janeiro,campeonato brasileiro serie a,1,brazil,2.7,3.15,916,6,1,1.17,0,0,502,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,out,thierry doubai,24,cote d\'ivoire,udinese calcio,italy,DM,midfielder,NA,NA,fc sochaux montbeliard,ligue 1,1,france,2.7,1.35,0,17,0.47,1.47,1,0,1051,0,0,0,0,0,0,6,1,1.5,0,0,481,2012/2013
+ssc neapel,serie a,1,italy,in,bruno uvini,21,brazil,fc sao paulo,brazil,CB,defender,66,82,fc sao paulo,campeonato brasileiro serie a,1,brazil,2.7,0.9,603,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,pablo gonzalez,27,argentina,us palermo,italy,CF,attacker,73,77,novara calcio 1908,serie b,2,italy,2.7,0.99,1101,21,0.75,1,4,1,926,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,NA,italy,in,marko bakic,18,montenegro,mogren budva,montenegro,CM,midfielder,NA,NA,mogren budva,NA,1,montenegro,2.7,-,0,1,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,out,gianluca sansone,25,italy,fc turin,italy,CF,attacker,72,80,uc sampdoria,serie a,1,italy,2.7,2.7,0,42,0.95,1.81,20,9,3338,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,in,gianluca sansone,25,italy,fc turin,italy,CF,attacker,72,80,fc turin,serie a,1,italy,2.7,2.7,0,42,0.95,1.81,20,9,3338,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,NA,italy,in,egidio arevalo rios,30,uruguay,club tijuana,mexico,DM,midfielder,75,75,club tijuana,liga mx clausura,1,mexico,2.52,1.8,0,33,1,1.39,3,1,2953,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,mattia cassani,28,italy,us palermo,italy,RB,defender,78,80,us palermo,serie a,1,italy,2.48,4.05,369,29,0.94,1.21,1,1,2358,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,mattia cassani,28,italy,us palermo,italy,RB,defender,78,80,ac florenz,serie a,1,italy,2.48,4.05,369,29,0.94,1.21,1,1,2358,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,1,italy,in,panagiotis kone,25,greece,brescia calcio,italy,CM,midfielder,74,80,brescia calcio,serie b,2,italy,2.43,1.44,309,31,1,1.23,1,1,1744,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,davide brivio,24,italy,us lecce,italy,LB,defender,70,74,us lecce,prima divisione a,3,italy,2.43,0.765,0,27,0.77,1.15,2,1,2116,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,rafal wolski,20,poland,legia warschau,poland,AM,midfielder,66,69,legia warschau,ekstraklasa,1,poland,2.43,3.6,0,32,0.89,1.88,8,3,1471,0,0,0,0,0,0,6,0.75,1.17,0,2,78,2012/2013
+ac siena,serie a,1,italy,out,alessandro gazzi,29,italy,ac siena,italy,DM,midfielder,70,72,fc turin,serie a,1,italy,2.34,1.8,0,35,0.95,1.31,1,3,2800,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,alessandro gazzi,29,italy,ac siena,italy,DM,midfielder,70,72,ac siena,serie a,1,italy,2.34,1.8,0,35,0.95,1.31,1,3,2800,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,panagiotis tachtsidis,21,greece,fc genua 1893,italy,DM,midfielder,61,77,fc genua 1893,serie a,1,italy,2.25,1.8,1082,39,0.91,1.9,3,5,3351,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,in,paul papp,22,romania,fc vaslui,romania,CB,defender,NA,NA,fc vaslui,liga 1,1,romania,2.25,2.52,0,36,1,1.83,1,0,3131,0,0,0,0,0,0,4,1,1.25,0,0,360,2012/2013
+cagliari calcio,serie a,1,italy,out,michele canini,27,italy,cagliari calcio,italy,CB,defender,76,79,fc genua 1893,serie a,1,italy,2.25,3.15,0,36,0.95,1.25,0,0,3156,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,afriyie acquah,21,ghana,us palermo,italy,CM,midfielder,73,85,tsg 1899 hoffenheim,1 bundesliga,1,germany,2.25,1.8,1256,23,0.74,1.26,0,0,1201,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,michele canini,27,italy,cagliari calcio,italy,CB,defender,76,79,cagliari calcio,serie a,1,italy,2.25,3.15,0,36,0.95,1.25,0,0,3156,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,chico,25,spain,fc genua 1893,italy,CB,defender,75,86,swansea city,premier league,1,england,2.25,3.15,1091,34,0.92,1.35,0,2,2973,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,panagiotis tachtsidis,21,greece,fc genua 1893,italy,DM,midfielder,61,77,as rom,serie a,1,italy,2.25,1.8,1082,39,0.91,1.9,3,5,3351,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,matteo darmian,22,italy,us palermo,italy,RB,defender,69,80,fc turin,serie a,1,italy,2.09,0.81,731,34,0.92,2.03,1,2,2871,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,matteo darmian,22,italy,us palermo,italy,RB,defender,69,80,us palermo,serie a,1,italy,2.09,0.81,731,34,0.92,2.03,1,2,2871,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,NA,italy,in,matias vecino,21,uruguay,nacional montevideo,uruguay,CM,midfielder,NA,NA,nacional montevideo,primera division clausura,1,uruguay,2.07,0.45,0,18,0.95,2,4,1,996,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,in,alberto masi,19,italy,fc pro vercelli 1892,italy,CB,defender,NA,NA,fc pro vercelli 1892,serie b,2,italy,1.89,0.315,0,28,0.93,1.64,1,0,2446,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,NA,italy,in,thomas heurtaux,23,france,sm caen,france,CB,defender,70,74,sm caen,ligue 2,1,france,1.89,2.48,0,37,1,1.08,5,0,3138,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,mathias ranegie,28,sweden,malmo ff,sweden,CF,attacker,73,75,malmo ff,allsvenskan,1,sweden,1.8,1.35,0,31,0.97,1.68,16,4,2617,0,0,0,0,0,0,6,1,0.17,2,1,506,2012/2013
+fc parma,serie a,1,italy,in,nicola del pivo,20,italy,ac cesena,italy,CM,midfielder,NA,NA,ac cesena,serie b,2,italy,1.8,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,1,italy,out,jean francois gillet,33,belgium,fc bologna,italy,GK,keeper,76,78,fc turin,serie a,1,italy,1.8,2.25,0,30,0.97,1.33,0,0,2680,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,NA,italy,in,lucas castro,23,argentina,racing club de avellaneda,argentina,CM,midfielder,70,76,racing club de avellaneda,torneo final,1,argentina,1.8,0.9,0,29,0.97,1.45,5,3,2083,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,alberto aquilani,28,italy,fc liverpool,england,CM,midfielder,80,84,fc liverpool,premier league,1,england,1.8,8.1,337,31,0.89,1.94,1,7,1791,7,0.88,1.14,0,1,329,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,1,italy,in,daniele dessena,25,italy,uc sampdoria,italy,CM,midfielder,71,78,uc sampdoria,serie a,1,italy,1.8,1.62,369,21,0.72,1,1,0,1641,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,NA,italy,in,thiago ribeiro,26,brazil,ca rentistas,uruguay,LW,attacker,75,78,ca rentistas,segunda division profesional,1,uruguay,1.8,2.7,0,36,0.92,1.06,4,3,2407,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,lucas pratto,24,argentina,fc genua 1893,italy,CF,attacker,NA,NA,club atletico velez sarsfield,torneo final,NA,argentina,1.8,2.25,905,36,0.88,1.58,6,5,1806,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,jean francois gillet,33,belgium,fc bologna,italy,GK,keeper,76,78,fc bologna,serie a,1,italy,1.8,2.25,0,30,0.97,1.33,0,0,2680,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,NA,italy,in,andrea magrassi,19,italy,brescia primavera,italy,CF,attacker,56,69,brescia primavera,campionato primavera girone b,1,italy,1.8,0.18,0,24,0.96,0.92,8,0,1864,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,out,daniele dessena,25,italy,uc sampdoria,italy,CM,midfielder,71,78,cagliari calcio,serie a,1,italy,1.8,1.62,369,21,0.72,1,1,0,1641,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,jaime valdes,31,chile,sporting lissabon,portugal,CM,midfielder,75,75,sporting lissabon,primeira liga,1,portugal,1.62,1.62,358,22,0.81,1.45,1,2,1424,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,nicolas viola,22,italy,reggina calcio,italy,CM,midfielder,66,76,reggina calcio,serie b,2,italy,1.62,1.26,0,23,0.68,1.48,6,3,1778,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,vladimir weiss,22,slovakia,manchester city,england,LW,attacker,76,79,manchester city,premier league,1,england,1.62,3.15,338,33,0.82,1.12,4,5,2146,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,alessandro gamberini,30,italy,ac florenz,italy,CB,defender,78,80,ac florenz,serie a,1,italy,1.58,5.85,0,30,0.86,1.3,1,0,2670,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,NA,italy,in,raman chibsah,19,ghana,juventus primavera,italy,CM,midfielder,NA,NA,juventus primavera,campionato primavera girone a,1,italy,1.58,0.135,0,30,1,2.23,1,0,2293,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,out,alessandro gamberini,30,italy,ac florenz,italy,CB,defender,78,80,ssc neapel,serie a,1,italy,1.58,5.85,0,30,0.86,1.3,1,0,2670,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,1,italy,in,alberto frison,24,italy,vicenza calcio,italy,GK,keeper,73,78,vicenza calcio,serie b,2,italy,1.51,1.17,365,42,1,0.93,0,0,3780,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,davide bariti,20,italy,vicenza calcio,italy,RW,attacker,62,75,vicenza calcio,serie b,2,italy,1.49,0.248,0,23,0.74,1.04,0,0,1307,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,gianluca sansone,25,italy,us sassuolo,italy,CF,attacker,72,80,us sassuolo,serie b,2,italy,1.44,3.15,0,42,0.95,1.81,20,9,3338,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,cristian pasquato,22,italy,juventus turin,italy,SS,attacker,73,86,udinese calcio,serie a,1,italy,1.35,0.99,0,15,0.56,0.67,1,2,635,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,cristian pasquato,22,italy,juventus turin,italy,SS,attacker,73,86,juventus turin,serie a,1,italy,1.35,0.99,0,15,0.56,0.67,1,2,635,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+lazio rom,serie a,1,italy,in,michael ciani,28,france,fc girondins bordeaux,france,CB,defender,73,77,fc girondins bordeaux,ligue 1,1,france,1.35,3.6,0,35,0.85,1.51,2,2,3024,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,in,giandomenico mesto,30,italy,fc genua 1893,italy,RB,defender,76,76,fc genua 1893,serie a,1,italy,1.35,3.6,0,33,0.97,1.33,1,1,2829,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,francesco bardi,20,italy,as livorno,italy,GK,keeper,64,77,as livorno,serie b,2,italy,1.35,1.8,0,35,0.92,1.14,0,1,3119,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,giammario piscitella,19,italy,as rom,italy,LW,attacker,63,76,fc genua 1893,serie a,1,italy,1.35,0.9,0,27,0.79,2.3,10,1,2052,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,valerio verre,18,italy,as rom,italy,AM,midfielder,56,76,fc genua 1893,serie a,1,italy,1.35,0.9,0,33,1,2.33,6,0,2672,0,0,0,0,0,0,1,1,1,0,0,21,2012/2013
+chievo verona,serie a,1,italy,out,fernando uribe,24,colombia,chievo verona,italy,CF,attacker,71,81,atletico nacional,liga postobon ii,NA,colombia,1.35,0.54,0,9,0.6,1.11,4,1,502,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,gonzalo rodriguez,28,argentina,fc villarreal,spain,CB,defender,78,79,fc villarreal,segunda division,2,spain,1.35,6.3,0,31,0.69,0.94,1,0,2295,4,0.8,0,0,0,227,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,ahmed hegazy,21,egypt,ismaily sc,egypt,CB,defender,NA,NA,ismaily sc,egyptian premier league,1,egypt,1.35,1.35,0,9,1,1.89,0,0,709,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,luca rossettini,27,italy,ac siena,italy,CB,defender,71,72,cagliari calcio,serie a,1,italy,1.35,0.9,0,33,0.97,1.42,1,1,2924,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,NA,italy,in,matias cabrera,26,uruguay,nacional montevideo,uruguay,CM,midfielder,NA,NA,nacional montevideo,primera division clausura,1,uruguay,1.35,0.54,0,26,0.96,2.08,3,6,1993,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,1,italy,in,sebastian eriksson,23,sweden,ifk goteborg,sweden,DM,midfielder,68,77,ifk goteborg,allsvenskan,1,sweden,1.35,1.08,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,1,italy,in,luca rossettini,27,italy,ac siena,italy,CB,defender,71,72,ac siena,serie a,1,italy,1.35,0.9,0,33,0.97,1.42,1,1,2924,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,michel morganella,23,switzerland,novara calcio 1908,italy,RB,defender,64,74,novara calcio 1908,serie b,2,italy,1.35,0.72,0,34,0.87,0.94,0,2,2916,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,samir ujkani,23,kosovo,novara calcio 1908,italy,GK,keeper,NA,NA,novara calcio 1908,serie b,2,italy,1.35,3.15,0,26,1,0.96,0,0,2244,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,valerio verre,18,italy,as rom,italy,AM,midfielder,56,76,as rom,serie a,1,italy,1.35,0.9,0,33,1,2.33,6,0,2672,0,0,0,0,0,0,1,1,1,0,0,21,2012/2013
+fc genua 1893,serie a,1,italy,in,dejan lazarevic,22,slovenia,ac padova,italy,LW,attacker,70,78,ac padova,serie b,2,italy,1.35,0.9,0,32,0.89,1.41,2,5,1746,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,giammario piscitella,19,italy,as rom,italy,LW,attacker,63,76,as rom,serie a,1,italy,1.35,0.9,0,27,0.79,2.3,10,1,2052,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,giandomenico mesto,30,italy,fc genua 1893,italy,RB,defender,76,76,ssc neapel,serie a,1,italy,1.35,3.6,0,33,0.97,1.33,1,1,2829,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,antonino ragusa,22,italy,fc genua 1893,italy,LW,attacker,61,71,delfino pescara 1936,serie a,1,italy,1.35,0.99,0,34,0.94,1.32,7,1,2024,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,antonino ragusa,22,italy,fc genua 1893,italy,LW,attacker,61,71,fc genua 1893,serie a,1,italy,1.35,0.99,0,34,0.94,1.32,7,1,2024,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,massimo bonanni,30,italy,fc lugano,switzerland,LM,midfielder,NA,NA,fc lugano,challenge league,2,switzerland,1.31,0.36,333,30,1,1.6,5,0,2458,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,franco brienza,33,italy,ac siena,italy,AM,midfielder,73,73,us palermo,serie a,1,italy,1.26,1.17,0,39,1,1.21,4,7,3313,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,franco brienza,33,italy,ac siena,italy,AM,midfielder,73,73,ac siena,serie a,1,italy,1.26,1.17,0,39,1,1.21,4,7,3313,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,matteo contini,32,italy,real saragossa,spain,CB,defender,72,72,real saragossa,primera division,1,spain,1.24,0.81,371,20,0.62,1.35,0,0,1513,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,mattia destro,21,italy,fc genua 1893,italy,CF,attacker,72,87,fc genua 1893,serie a,1,italy,1.17,9,0,32,0.91,1.38,13,4,2304,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,mattia destro,21,italy,fc genua 1893,italy,CF,attacker,72,87,ac siena,serie a,1,italy,1.17,9,0,32,0.91,1.38,13,4,2304,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,NA,italy,in,mathias abero,22,uruguay,nacional montevideo,uruguay,LB,defender,NA,NA,nacional montevideo,primera division clausura,1,uruguay,1.15,0.405,0,22,0.76,2,4,2,1367,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,alessandro florenzi,21,italy,fc crotone,italy,RB,defender,56,68,fc crotone,serie b,2,italy,1.13,1.35,0,37,0.97,1.57,11,2,3053,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,junior tallo,19,cote d\'ivoire,chievo verona,italy,CF,attacker,NA,NA,chievo verona,serie a,1,italy,1.09,0.36,0,28,0.9,2.04,19,1,1965,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,out,junior tallo,19,cote d\'ivoire,chievo verona,italy,CF,attacker,NA,NA,as rom,serie a,1,italy,1.09,0.36,0,28,0.9,2.04,19,1,1965,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+inter mailand,serie a,1,italy,in,zdravko kuzmanovi%c4%87,25,serbia,vfb stuttgart,germany,CM,midfielder,77,81,vfb stuttgart,1 bundesliga,1,germany,1.08,4.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,gianluca caprari,18,italy,as rom,italy,SS,attacker,70,78,delfino pescara 1936,serie a,1,italy,1.08,1.62,1831,29,0.91,1.83,10,1,1786,0,0,0,0,0,0,2,1,0.5,0,0,141,2012/2013
+as rom,serie a,1,italy,out,andrea bertolacci,21,italy,as rom,italy,CM,midfielder,70,78,fc genua 1893,serie a,1,italy,1.08,2.25,352,28,0.85,0.96,3,3,1273,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,andrea bertolacci,21,italy,as rom,italy,CM,midfielder,70,78,as rom,serie a,1,italy,1.08,2.25,352,28,0.85,0.96,3,3,1273,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,elvis abbruscato,31,italy,vicenza calcio,italy,CF,attacker,70,70,vicenza calcio,serie b,2,italy,1.08,0.81,0,39,0.91,0.95,13,3,3127,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,gianluca caprari,18,italy,as rom,italy,SS,attacker,70,78,as rom,serie a,1,italy,1.08,1.62,1831,29,0.91,1.83,10,1,1786,0,0,0,0,0,0,2,1,0.5,0,0,141,2012/2013
+uc sampdoria,serie a,1,italy,in,davide gavazzi,26,italy,vicenza calcio,italy,CM,midfielder,65,67,vicenza calcio,serie b,2,italy,1.08,0.9,0,36,0.97,1.11,2,3,3016,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,out,migjen basha,25,albania,atalanta bergamo,italy,DM,midfielder,NA,NA,fc turin,serie a,1,italy,1.04,0.9,736,37,0.9,1.95,2,1,2880,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,migjen basha,25,albania,atalanta bergamo,italy,DM,midfielder,NA,NA,atalanta bergamo,serie a,1,italy,1.04,0.9,736,37,0.9,1.95,2,1,2880,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,gianluca musacci,25,italy,fc empoli,italy,CM,midfielder,69,80,fc empoli,serie b,2,italy,0.99,0.54,0,16,0.57,1.38,0,0,697,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,1,italy,in,mirco antenucci,27,italy,fc turin,italy,CF,attacker,70,76,fc turin,serie a,1,italy,0.99,2.07,0,43,0.98,1.93,11,8,3050,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,in,steve von bergen,29,switzerland,fc genua 1893,italy,CB,defender,74,78,fc genua 1893,serie a,1,italy,0.99,1.35,1050,27,0.96,0.7,0,1,2430,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,steve von bergen,29,switzerland,fc genua 1893,italy,CB,defender,74,78,us palermo,serie a,1,italy,0.99,1.35,1050,27,0.96,0.7,0,1,2430,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,out,mirco antenucci,27,italy,fc turin,italy,CF,attacker,70,76,catania calcio,serie a,1,italy,0.99,2.07,0,43,0.98,1.93,11,8,3050,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+uc sampdoria,serie a,1,italy,in,andrea costa,26,italy,reggina calcio,italy,CB,defender,68,74,reggina calcio,serie b,2,italy,0.99,0.27,368,31,0.79,1.71,1,1,2704,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,adrian stoian,21,romania,as bari,italy,LW,attacker,62,70,as bari,serie b,2,italy,0.9,1.35,0,32,0.91,1.31,5,2,2038,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,NA,italy,in,riccardo casini,20,italy,bologna primavera,italy,DM,midfielder,NA,NA,bologna primavera,campionato primavera girone b,1,italy,0.9,0.068,0,26,0.9,1.5,0,0,2243,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,out,francesco finocchio,20,italy,fc parma,italy,RW,attacker,NA,NA,fc bologna,serie a,1,italy,0.9,0.068,1101,1,1,1,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,1,italy,in,francesco finocchio,20,italy,fc parma,italy,RW,attacker,NA,NA,fc parma,serie a,1,italy,0.9,0.068,1101,1,1,1,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,michele canini,27,italy,fc genua 1893,italy,CB,defender,76,79,fc genua 1893,serie a,1,italy,0.9,3.15,0,36,0.95,1.25,0,0,3156,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,matteo contini,32,italy,ac siena,italy,CB,defender,72,72,ac siena,serie a,1,italy,0.9,0.45,0,20,0.62,1.35,0,0,1513,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,riccardo cazzola,26,italy,ss juve stabia,italy,CM,midfielder,68,73,ss juve stabia,serie b,2,italy,0.9,0.9,0,34,0.85,1.56,2,4,2490,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,out,matteo contini,32,italy,ac siena,italy,CB,defender,72,72,atalanta bergamo,serie a,1,italy,0.9,0.45,0,20,0.62,1.35,0,0,1513,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,michele canini,27,italy,fc genua 1893,italy,CB,defender,76,79,atalanta bergamo,serie a,1,italy,0.9,3.15,0,36,0.95,1.25,0,0,3156,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,giuseppe colucci,31,italy,ac cesena,italy,CM,midfielder,71,71,ac cesena,serie b,2,italy,0.9,0.45,0,24,0.96,0.5,0,1,1555,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,out,andrea gessa,32,italy,delfino pescara 1936,italy,RM,midfielder,61,61,ac cesena,serie b,2,italy,0.9,0.18,0,26,0.72,2.08,1,2,1190,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,1,italy,in,guillermo rodriguez,28,uruguay,ac cesena,italy,CB,defender,72,75,ac cesena,serie b,2,italy,0.9,0.765,0,29,0.78,0.66,0,1,2610,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,franco brienza,33,italy,us palermo,italy,AM,midfielder,73,73,us palermo,serie a,1,italy,0.855,0.9,0,39,1,1.21,4,7,3313,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,franco brienza,33,italy,us palermo,italy,AM,midfielder,73,73,atalanta bergamo,serie a,1,italy,0.855,0.9,0,39,1,1.21,4,7,3313,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ssc neapel,serie a,1,italy,out,fabiano santacroce,25,italy,ssc neapel,italy,CB,defender,75,82,fc parma,serie a,1,italy,0.81,0.72,0,13,0.42,1.92,0,0,602,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,fabiano santacroce,25,italy,ssc neapel,italy,CB,defender,75,82,ssc neapel,serie a,1,italy,0.81,0.72,0,13,0.42,1.92,0,0,602,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,anselmo,23,brazil,se palmeiras sao paulo,brazil,DM,midfielder,NA,NA,se palmeiras sao paulo,campeonato brasileiro serie a,1,brazil,0.81,0.81,0,4,0.67,1.25,0,0,229,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,mervan celik,22,sweden,gais goteborg,sweden,LW,attacker,68,74,gais goteborg,allsvenskan,1,sweden,0.81,1.35,0,20,1,0.95,2,2,1295,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,leandro greco,26,italy,as rom,italy,CM,midfielder,74,76,olympiakos piraus,super league,1,greece,0.765,2.25,0,21,0.75,1.62,0,2,975,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,NA,italy,in,mounir el hamdaoui,27,morocco,jong ajax amsterdam,netherlands,CF,attacker,76,77,jong ajax amsterdam,beloften divisie a,1,netherlands,0.72,3.6,725,3,1,2,1,0,228,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,giulio cavallari,20,italy,vicenza calcio,italy,GK,keeper,53,59,vicenza calcio,serie b,2,italy,0.675,0.045,0,23,1,1.04,0,1,2065,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,NA,italy,in,nicolas bianchi arce,25,argentina,club atletico san lorenzo de almagro,argentina,CB,defender,NA,NA,club atletico san lorenzo de almagro,torneo final,1,argentina,0.657,0.63,167,24,0.77,1.21,1,0,1907,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,NA,italy,in,jonatan lucca,18,brazil,sport club internacional u19,brazil,CM,midfielder,NA,NA,sport club internacional u19,NA,1,brazil,0.63,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,niccolo corticchia,19,italy,juventus turin,italy,CM,midfielder,NA,NA,vicenza calcio,serie b,2,italy,0.54,0.045,0,15,1,2.27,0,0,732,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,NA,italy,in,gabriel,19,brazil,ec cruzeiro belo horizonte b,brazil,GK,keeper,66,79,ec cruzeiro belo horizonte b,NA,1,brazil,0.45,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac mailand,serie a,1,italy,out,davide di gennaro,24,italy,ac mailand,italy,DM,midfielder,66,74,spezia calcio,serie b,2,italy,0.45,1.53,357,34,0.97,1.44,11,6,2623,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+udinese calcio,serie a,1,italy,in,wojciech pawlowski,19,poland,lechia gdansk,poland,GK,keeper,63,71,lechia gdansk,ekstraklasa,1,poland,0.45,0.63,0,17,0.77,0.82,0,0,1530,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,adrian stoian,21,romania,as rom,italy,LW,attacker,62,70,chievo verona,serie a,1,italy,0.45,1.35,0,32,0.91,1.31,5,2,2038,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,in,adrian stoian,21,romania,as rom,italy,LW,attacker,62,70,as rom,serie a,1,italy,0.45,1.35,0,32,0.91,1.31,5,2,2038,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,massimo paci,34,italy,novara calcio 1908,italy,CB,defender,70,70,novara calcio 1908,serie b,2,italy,0.45,0.27,0,28,0.9,0.89,1,0,2295,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,salvatore delia,23,italy,juventus turin,italy,LB,defender,NA,NA,vicenza calcio,serie b,2,italy,0.36,0.068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,vasilios torosidis,27,greece,olympiakos piraus,greece,RB,defender,79,81,olympiakos piraus,super league,1,greece,0.36,5.85,0,34,0.92,2.29,0,3,2747,4,0.8,1.5,0,0,360,4,1,2.25,0,0,360,2012/2013
+delfino pescara 1936,serie a,1,italy,in,ferdinando sforzini,28,italy,us grosseto,italy,CF,attacker,67,68,us grosseto,serie b,2,italy,0.36,1.17,0,40,1,1.08,21,3,3258,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,alvaro ampuero,20,peru,universitario de deportes,peru,LB,defender,NA,NA,universitario de deportes,torneo descentralizado liguilla par,1,peru,0.333,0.18,0,7,1,1,0,0,550,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+juventus turin,serie a,1,italy,out,michele pazienza,30,italy,juventus turin,italy,DM,midfielder,76,80,fc bologna,serie a,1,italy,0.27,3.6,675,28,0.76,1.79,1,0,1799,0,0,0,0,0,0,4,1,1.75,0,0,348,2012/2013
+lazio rom,serie a,1,italy,out,tommaso rocchi,35,italy,lazio rom,italy,CF,attacker,77,77,inter mailand,serie a,1,italy,0.27,0.81,0,29,0.72,1.48,9,5,1785,0,0,0,0,0,0,7,0.88,1.71,3,2,406,2012/2013
+inter mailand,serie a,1,italy,in,tommaso rocchi,35,italy,lazio rom,italy,CF,attacker,77,77,lazio rom,serie a,1,italy,0.27,0.81,0,29,0.72,1.48,9,5,1785,0,0,0,0,0,0,7,0.88,1.71,3,2,406,2012/2013
+as rom,serie a,1,italy,out,adrian stoian,21,romania,as rom,italy,LW,attacker,62,70,as bari,serie b,2,italy,0.27,1.35,0,32,0.91,1.31,5,2,2038,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,1,italy,in,michele pazienza,30,italy,juventus turin,italy,DM,midfielder,76,80,juventus turin,serie a,1,italy,0.27,3.6,675,28,0.76,1.79,1,0,1799,0,0,0,0,0,0,4,1,1.75,0,0,348,2012/2013
+us palermo,serie a,NA,italy,in,aljaz struna,21,slovenia,fc luka koper,slovenia,CB,defender,NA,NA,fc luka koper,prva liga,1,slovenia,0.27,0.675,0,27,0.96,1.52,1,1,2238,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc turin,serie a,NA,italy,in,marco migliorini,20,italy,ssd chieti,italy,CB,defender,NA,NA,ssd chieti,NA,1,italy,0.27,0.225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,mattia montini,20,italy,as rom,italy,CF,attacker,NA,NA,benevento calcio,prima divisione b,3,italy,0.234,0.135,0,9,1,1.67,1,0,348,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+lazio rom,serie a,1,italy,out,lionel scaloni,34,argentina,lazio rom,italy,RB,defender,68,68,atalanta bergamo,serie a,1,italy,0.225,0.27,0,21,0.6,1.62,1,2,1332,0,0,0,0,0,0,2,1,3,0,0,180,2012/2013
+as rom,serie a,1,italy,in,tomas svedkauskas,18,lithuania,suduva marijampole,lithuania,GK,keeper,NA,NA,suduva marijampole,a lyga,1,lithuania,0.225,0.36,0,21,1,1.76,0,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,in,alessandro malomo,21,italy,uc albinoleffe,italy,CB,defender,59,66,uc albinoleffe,prima divisione a,3,italy,0.225,0.068,0,13,0.54,0.85,0,0,1069,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+as rom,serie a,1,italy,out,stefano pettinari,20,italy,as rom,italy,CF,attacker,57,68,fc crotone,serie b,2,italy,0.225,0.45,0,25,0.74,1.04,5,0,759,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,in,paolo dellafiore,27,italy,novara calcio 1908,italy,CB,defender,NA,NA,novara calcio 1908,serie b,2,italy,0.225,0.54,0,18,0.75,0.78,0,0,1228,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,NA,italy,in,marco fiore,23,italy,ss milazzo,italy,DM,midfielder,NA,NA,ss milazzo,NA,1,italy,0.225,0.068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+atalanta bergamo,serie a,1,italy,in,lionel scaloni,34,argentina,lazio rom,italy,RB,defender,68,68,lazio rom,serie a,1,italy,0.225,0.27,0,21,0.6,1.62,1,2,1332,0,0,0,0,0,0,2,1,3,0,0,180,2012/2013
+us palermo,serie a,NA,italy,in,mauricio sperduti,26,argentina,club atletico newells old boys,argentina,RW,attacker,NA,NA,club atletico newells old boys,torneo final,1,argentina,0.225,1.62,0,30,1,1.33,2,3,2306,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,eran zahavi,25,israel,us palermo,italy,SS,attacker,76,80,maccabi tel aviv,ligat ha al,1,israel,0.225,1.35,0,22,0.69,1.27,2,3,1111,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,in,enis nadarevic,25,bosnia-herzegovina,as varese 1910,italy,LW,attacker,NA,NA,as varese 1910,serie b,2,italy,0.225,1.08,0,42,1,1.67,1,4,2720,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,in,christian terlizzi,32,italy,as varese 1910,italy,CB,defender,68,68,as varese 1910,serie b,2,italy,0.225,0.315,0,34,0.89,1.65,6,1,2984,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,1,italy,in,emiliano tortolano,22,italy,us latina calcio,italy,RW,attacker,NA,NA,us latina calcio,prima divisione b,3,italy,0.18,0.18,155,27,1,1,5,0,1816,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac florenz,serie a,1,italy,in,marvin compper,27,germany,tsg 1899 hoffenheim,germany,CB,defender,74,76,tsg 1899 hoffenheim,1 bundesliga,1,germany,0.18,2.25,160,33,1,1.33,2,0,2946,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+cagliari calcio,serie a,1,italy,out,andrea cocco,26,italy,cagliari calcio,italy,CF,attacker,63,68,uc albinoleffe,prima divisione a,3,italy,0.18,0.765,0,33,0.97,0.85,12,2,2569,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc genua 1893,serie a,1,italy,out,andrea caracciolo,30,italy,fc genua 1893,italy,CF,attacker,74,74,brescia calcio,serie b,2,italy,0.18,2.25,736,31,0.89,1,3,4,2020,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,out,marco sansovini,32,italy,delfino pescara 1936,italy,CF,attacker,71,71,spezia calcio,serie b,2,italy,0.18,0.54,0,42,0.98,1.98,16,2,2685,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+chievo verona,serie a,1,italy,out,andrea de falco,26,italy,chievo verona,italy,CM,midfielder,65,71,as bari,serie b,2,italy,0.145,0.45,0,40,0.98,1.38,6,1,3161,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,NA,italy,in,alessandro marchi,22,italy,piacenza calcio 1919,italy,CM,midfielder,NA,NA,piacenza calcio 1919,NA,1,italy,0.117,0.18,0,33,1,1.33,1,0,2701,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc parma,serie a,1,italy,out,francesco valiani,31,italy,fc parma,italy,CM,midfielder,72,72,ac siena,serie a,1,italy,0.09,0.99,0,28,0.78,1.54,1,0,1732,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+catania calcio,serie a,1,italy,out,raffaele imparato,25,italy,catania calcio,italy,RB,defender,NA,NA,vicenza calcio,serie b,2,italy,0.09,0.068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+ac siena,serie a,1,italy,in,francesco valiani,31,italy,fc parma,italy,CM,midfielder,72,72,fc parma,serie a,1,italy,0.09,0.99,0,28,0.78,1.54,1,0,1732,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+us palermo,serie a,1,italy,out,karim laribi,21,tunisia,us palermo,italy,AM,midfielder,63,75,us sassuolo,serie b,2,italy,0.09,0.315,0,8,0.89,1.63,2,0,325,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+delfino pescara 1936,serie a,1,italy,out,stefano giacomelli,22,italy,delfino pescara 1936,italy,LW,attacker,NA,NA,vicenza calcio,serie b,2,italy,0.09,0.27,0,19,0.61,1.53,0,1,925,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+lazio rom,serie a,1,italy,in,antonio cinelli,22,italy,us sassuolo,italy,CM,midfielder,NA,NA,us sassuolo,serie b,2,italy,0.027,0.158,365,13,1,1.62,1,0,851,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013
+fc bologna,serie a,NA,italy,in,uros radakovic,18,serbia,fk proleter novi sad,serbia,CB,defender,NA,NA,fk proleter novi sad,prva liga,1,serbia,0.023,0.18,0,19,0.86,1.21,0,0,1313,0,0,0,0,0,0,0,0,0,0,0,0,2012/2013

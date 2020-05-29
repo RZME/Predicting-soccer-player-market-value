@@ -1,0 +1,220 @@
+club,club_league,club_league_tier,club_country,transfer_movement,player_name,player_age,player_nationality,player_club,player_club_country,player_position,player_position_category,player_rating,player_potential,club_involved,club_involved_league,club_involved_league_tier,club_involved_country,transfer_fee,market_value,remaining_contract_duration,total_apps,total_apps_ratio,total_minutes_per_point,total_goals,total_assists,total_minutes_played,ucl_apps,ucl_apps_ratio,ucl_minutes_per_point,ucl_goals,ucl_assists,ucl_minutes_played,el_apps,el_apps_ratio,el_minutes_per_point,el_goals,el_assists,el_minutes_played,season
+inter mailand,serie a,1,italy,out,zlatan ibrahimovic,27,sweden,inter mailand,italy,CF,attacker,88,91,fc barcelona,primera division,1,spain,62.55,40.5,1439,47,0.98,2.13,29,11,4154,8,1,1.13,1,3,674,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,out,kaka,27,brazil,ac mailand,italy,AM,midfielder,88,92,real madrid,primera division,1,spain,60.3,49.5,0,36,1,2.17,16,12,2953,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,in,diego,24,brazil,sv werder bremen,germany,AM,midfielder,87,90,sv werder bremen,1 bundesliga,1,germany,24.3,26.1,371,39,1,1.62,21,11,3510,5,1,0.8,1,0,450,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,diego milito,30,argentina,fc genua 1893,italy,CF,attacker,85,86,fc genua 1893,serie a,1,italy,22.5,14.4,0,32,1,1.75,26,6,2743,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,in,felipe melo,26,brazil,ac florenz,italy,DM,midfielder,82,85,ac florenz,serie a,1,italy,22.5,8.55,0,40,1,1.58,2,1,3531,6,1,1,0,0,529,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,diego milito,30,argentina,fc genua 1893,italy,CF,attacker,85,86,inter mailand,serie a,1,italy,22.5,14.4,0,32,1,1.75,26,6,2743,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,felipe melo,26,brazil,ac florenz,italy,DM,midfielder,82,85,juventus turin,serie a,1,italy,22.5,8.55,0,40,1,1.58,2,1,3531,6,1,1,0,0,529,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,NA,italy,in,mauro zarate,22,argentina,al sadd sports club,qatar,CF,attacker,84,91,al sadd sports club,NA,1,qatar,18.18,8.1,0,41,0.98,1.56,16,8,3226,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,samuel etoo,28,cameroon,fc barcelona,spain,CF,attacker,NA,NA,fc barcelona,primera division,1,spain,18,31.5,0,52,0.93,2.23,36,8,4021,10,0.83,2,4,2,783,0,0,0,0,0,0,2009/2010
+as rom,serie a,1,italy,out,alberto aquilani,25,italy,as rom,italy,CM,midfielder,82,88,fc liverpool,premier league,1,england,18,13.5,0,20,0.95,1.4,2,1,1095,4,1,1,0,0,244,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,fabio quagliarella,26,italy,udinese calcio,italy,CF,attacker,83,88,udinese calcio,serie a,1,italy,16.2,12.6,0,48,0.98,1.63,21,9,3207,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,fabio quagliarella,26,italy,udinese calcio,italy,CF,attacker,83,88,ssc neapel,serie a,1,italy,16.2,12.6,0,48,0.98,1.63,21,9,3207,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,wesley sneijder,25,netherlands,real madrid,spain,AM,midfielder,83,87,real madrid,primera division,1,spain,13.5,22.5,1041,28,0.97,2.11,2,2,1793,4,0.8,0.75,0,0,333,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,robert acquafresca,21,italy,inter mailand,italy,CF,attacker,78,86,fc genua 1893,serie a,1,italy,13.5,7.2,0,36,0.97,1.47,14,0,2319,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,in,klaas jan huntelaar,25,netherlands,real madrid,spain,CF,attacker,82,89,real madrid,primera division,1,spain,13.5,18,1428,35,0.95,2.29,17,3,2390,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,robert acquafresca,21,italy,inter mailand,italy,CF,attacker,78,86,inter mailand,serie a,1,italy,13.5,7.2,0,36,0.97,1.47,14,0,2319,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,out,yoann gourcuff,22,france,ac mailand,italy,AM,midfielder,85,92,fc girondins bordeaux,ligue 1,1,france,12.15,16.65,0,49,0.96,2.02,15,14,4138,6,1,1.17,2,2,540,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,luca cigarini,23,italy,atalanta bergamo,italy,DM,midfielder,77,88,atalanta bergamo,serie a,1,italy,9.9,6.3,0,24,0.92,1.17,3,3,1871,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,out,luca cigarini,23,italy,atalanta bergamo,italy,DM,midfielder,77,88,ssc neapel,serie a,1,italy,9.9,6.3,0,24,0.92,1.17,3,3,1871,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,sergio floccari,27,italy,atalanta bergamo,italy,CF,attacker,81,85,atalanta bergamo,serie a,1,italy,9.45,8.1,0,34,1,1.41,12,7,3035,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,leonardo bonucci,22,italy,fc genua 1893,italy,CB,defender,68,75,as bari,serie a,1,italy,9.45,0.36,0,32,0.82,1.06,3,0,2589,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,leonardo bonucci,22,italy,fc genua 1893,italy,CB,defender,68,75,fc genua 1893,serie a,1,italy,9.45,0.36,0,32,0.82,1.06,3,0,2589,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,out,sergio floccari,27,italy,atalanta bergamo,italy,CF,attacker,81,85,fc genua 1893,serie a,1,italy,9.45,8.1,0,34,1,1.41,12,7,3035,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,thiago motta,26,italy,fc genua 1893,italy,DM,midfielder,NA,NA,fc genua 1893,serie a,1,italy,9.18,6.3,0,27,1,1.78,6,2,2257,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,thiago motta,26,italy,fc genua 1893,italy,DM,midfielder,NA,NA,inter mailand,serie a,1,italy,9.18,6.3,0,27,1,1.78,6,2,2257,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,mcdonald mariga,22,kenya,fc parma,italy,DM,midfielder,72,83,fc parma,serie a,1,italy,9,5.4,0,37,0.95,1.89,3,1,2420,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,daniele galloppa,24,italy,ac siena,italy,CM,midfielder,74,81,ac siena,serie a,1,italy,9,3.6,0,37,0.97,1.27,1,7,3009,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,mcdonald mariga,22,kenya,fc parma,italy,DM,midfielder,72,83,inter mailand,serie a,1,italy,9,5.4,0,37,0.95,1.89,3,1,2420,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,out,daniele galloppa,24,italy,ac siena,italy,CM,midfielder,74,81,fc parma,serie a,1,italy,9,3.6,0,37,0.97,1.27,1,7,3009,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,camilo zuniga,23,colombia,ac siena,italy,RB,defender,NA,NA,ac siena,serie a,1,italy,7.65,1.62,0,29,0.91,1.21,0,2,2322,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,out,camilo zuniga,23,colombia,ac siena,italy,RB,defender,NA,NA,ssc neapel,serie a,1,italy,7.65,1.62,0,29,0.91,1.21,0,2,2322,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,zdravko kuzmanovi%c4%87,21,serbia,ac florenz,italy,CM,midfielder,77,88,vfb stuttgart,1 bundesliga,1,germany,7.2,8.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,lucio,31,brazil,fc bayern munchen,germany,CB,defender,73,77,fc bayern munchen,1 bundesliga,1,germany,6.3,16.2,0,44,0.98,2.14,2,2,3842,8,1,2.25,0,0,651,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,in,emiliano viviano,23,italy,brescia calcio,italy,GK,keeper,71,88,brescia calcio,serie b,2,italy,6.3,2.7,0,41,1,1.44,0,0,3652,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,hugo campagnaro,29,argentina,uc sampdoria,italy,CB,defender,77,79,ssc neapel,serie a,1,italy,6.3,2.88,727,23,0.92,0.87,1,0,1602,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,NA,italy,in,javier pastore,20,argentina,club atletico huracan,argentina,AM,midfielder,76,88,club atletico huracan,torneo final,1,argentina,6.3,2.7,0,30,0.91,1.43,8,6,2195,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,hugo campagnaro,29,argentina,uc sampdoria,italy,CB,defender,77,79,uc sampdoria,serie a,1,italy,6.3,2.88,727,23,0.92,0.87,1,0,1602,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,adem ljajic,18,serbia,fk partizan belgrad,serbia,AM,midfielder,NA,NA,fk partizan belgrad,superliga,1,serbia,6.12,4.05,537,28,0.93,2.43,5,4,1625,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,out,alessandro diamanti,26,italy,as livorno,italy,AM,midfielder,78,85,west ham united,premier league,1,england,6.12,3.15,0,39,0.95,1.64,20,6,2916,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,savio nsereko,20,germany,west ham united,england,RW,attacker,74,80,west ham united,premier league,1,england,5.58,3.6,0,30,0.86,1.5,3,6,1893,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,in,matuzalem,29,brazil,real saragossa,spain,DM,midfielder,76,80,real saragossa,primera division,1,spain,5.4,3.6,0,17,0.94,1.47,0,1,1368,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,out,david rozehnal,29,czech republic,lazio rom,italy,CB,defender,76,81,hamburger sv,1 bundesliga,1,germany,5.4,3.6,0,33,0.77,1.55,0,0,2839,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,lorenzo de silvestri,21,italy,lazio rom,italy,RB,defender,73,85,lazio rom,serie a,1,italy,4.95,2.88,0,28,0.7,1.86,0,0,1497,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,out,lorenzo de silvestri,21,italy,lazio rom,italy,RB,defender,73,85,ac florenz,serie a,1,italy,4.95,2.88,0,28,0.7,1.86,0,0,1497,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,houssine kharja,26,morocco,ac siena,italy,CM,midfielder,77,80,ac siena,serie a,1,italy,4.68,3.6,0,38,1,1.21,6,4,2939,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,out,houssine kharja,26,morocco,ac siena,italy,CM,midfielder,77,80,fc genua 1893,serie a,1,italy,4.68,3.6,0,38,1,1.21,6,4,2939,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,riccardo meggiorini,23,italy,inter mailand,italy,SS,attacker,69,78,fc genua 1893,serie a,1,italy,4.5,1.62,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,maxwell,27,brazil,inter mailand,italy,LB,defender,80,84,fc barcelona,primera division,1,spain,4.5,12.15,0,33,0.87,2.06,1,3,2229,4,0.67,1,0,1,241,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,in,franco semioli,29,italy,ac florenz,italy,RW,attacker,77,82,ac florenz,serie a,1,italy,4.5,2.7,0,23,0.79,2,0,5,1340,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,1,italy,in,rubinho,27,brazil,fc genua 1893,italy,GK,keeper,77,81,fc genua 1893,serie a,1,italy,4.5,4.5,0,38,0.95,1.79,0,0,3392,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,1,italy,out,marco amelia,27,italy,us palermo,italy,GK,keeper,79,82,fc genua 1893,serie a,1,italy,4.5,9,0,35,1,1.51,0,0,3079,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,erwin hoffer,22,austria,sk rapid wien,austria,CF,attacker,72,84,sk rapid wien,bundesliga,1,austria,4.5,2.34,0,39,1,1.87,29,11,2556,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,daniele vantaggiato,25,italy,fc parma,italy,CF,attacker,67,71,ac padova,serie b,2,italy,4.5,2.7,1279,38,0.97,1.68,17,2,2775,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,andrea pisanu,28,italy,fc parma,italy,RM,midfielder,71,76,fc bologna,serie a,1,italy,4.5,1.58,0,13,0.65,1.62,2,0,667,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,riccardo meggiorini,23,italy,inter mailand,italy,SS,attacker,69,78,inter mailand,serie a,1,italy,4.5,1.62,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,marco amelia,27,italy,us palermo,italy,GK,keeper,79,82,us palermo,serie a,1,italy,4.5,9,0,35,1,1.51,0,0,3079,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,matteo ferrari,29,italy,fc genua 1893,italy,CB,defender,78,82,besiktas istanbul,super lig,1,turkey,4.5,4.5,0,35,0.97,1.71,0,1,3043,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,rubinho,27,brazil,fc genua 1893,italy,GK,keeper,77,81,us palermo,serie a,1,italy,4.5,4.5,0,38,0.95,1.79,0,0,3392,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,franco semioli,29,italy,ac florenz,italy,RW,attacker,77,82,uc sampdoria,serie a,1,italy,4.5,2.7,0,23,0.79,2,0,5,1340,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,roman eremenko,22,finland,udinese calcio,italy,AM,midfielder,69,77,dynamo kiew,premier liga,1,ukraine,4.5,3.15,371,35,0.92,2.11,2,1,2687,6,1,1.33,1,0,480,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,in,andrea pisanu,28,italy,fc parma,italy,RM,midfielder,71,76,fc parma,serie a,1,italy,4.5,1.58,0,13,0.65,1.62,2,0,667,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,NA,italy,in,rodrigo palacio,27,argentina,club atletico boca juniors,argentina,CF,attacker,80,84,club atletico boca juniors,torneo final,1,argentina,4.41,8.55,0,27,1,1.22,10,6,1621,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,out,marco marchionni,28,italy,juventus turin,italy,RM,midfielder,78,82,ac florenz,serie a,1,italy,4.05,5.4,0,36,0.84,1.97,3,5,2421,5,0.83,1.6,0,0,314,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,reginaldo,25,brazil,fc parma,italy,CF,attacker,70,77,ac siena,serie a,1,italy,4.05,1.8,0,26,0.7,1.69,5,2,1584,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,alberto zapater,24,spain,real saragossa,spain,DM,midfielder,NA,NA,real saragossa,primera division,1,spain,4.05,7.2,0,40,0.95,1.93,2,0,3058,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,marco marchionni,28,italy,juventus turin,italy,RM,midfielder,78,82,juventus turin,serie a,1,italy,4.05,5.4,0,36,0.84,1.97,3,5,2421,5,0.83,1.6,0,0,314,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,edgar barreto,24,paraguay,reggina calcio,italy,CM,midfielder,77,84,reggina calcio,serie b,2,italy,4.05,2.25,725,33,1,0.85,2,3,2951,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,reginaldo,25,brazil,fc parma,italy,CF,attacker,70,77,fc parma,serie a,1,italy,4.05,1.8,0,26,0.7,1.69,5,2,1584,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+cagliari calcio,serie a,1,italy,in,nene,25,brazil,cd nacional,portugal,CF,attacker,77,82,cd nacional,primeira liga,1,portugal,4.05,1.8,0,37,1,1.7,23,6,3335,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,leonardo bonucci,22,italy,inter mailand,italy,CB,defender,68,75,fc genua 1893,serie a,1,italy,3.6,0.36,0,32,0.82,1.06,3,0,2589,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,NA,italy,in,pablo fontanello,24,argentina,club atletico tigre,argentina,CB,defender,67,72,club atletico tigre,torneo final,1,argentina,3.6,0.72,0,21,0.7,1.71,0,0,1560,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,leonardo bonucci,22,italy,inter mailand,italy,CB,defender,68,75,inter mailand,serie a,1,italy,3.6,0.36,0,32,0.82,1.06,3,0,2589,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,pablo barrientos,24,argentina,fk moskau,russia,RW,attacker,77,84,fk moskau,premier liga,1,russia,3.6,3.78,0,23,1,1.83,8,5,1786,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,NA,italy,in,leandro caruso,27,argentina,club deportivo godoy cruz,argentina,CF,attacker,NA,NA,club deportivo godoy cruz,torneo final,1,argentina,3.6,0.9,0,41,1,1.17,16,5,3076,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,andrea dossena,28,italy,fc liverpool,england,LM,midfielder,75,81,fc liverpool,premier league,1,england,3.38,5.4,1637,26,0.53,1.92,2,0,1798,6,0.6,2.17,1,0,336,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,emiliano moretti,28,italy,fc valencia,spain,CB,defender,77,83,fc valencia,primera division,1,spain,3.33,7.2,0,32,0.86,1.72,0,0,2498,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,antonio mirante,25,italy,uc sampdoria,italy,GK,keeper,74,75,fc parma,serie a,1,italy,3.24,1.8,0,13,0.29,1.31,0,0,1230,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,antonio mirante,25,italy,uc sampdoria,italy,GK,keeper,74,75,uc sampdoria,serie a,1,italy,3.24,1.8,0,13,0.29,1.31,0,0,1230,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,emiliano viviano,23,italy,inter mailand,italy,GK,keeper,71,88,fc bologna,serie a,1,italy,3.15,2.7,0,41,1,1.44,0,0,3652,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as rom,serie a,1,italy,in,marco motta,23,italy,udinese calcio,italy,RB,defender,76,80,udinese calcio,serie a,1,italy,3.15,3.6,0,35,0.88,1.6,0,3,2517,2,1,0.5,0,0,210,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,in,daniele mannini,25,italy,ssc neapel,italy,RM,midfielder,75,76,ssc neapel,serie a,1,italy,3.15,3.6,0,26,0.9,1.38,1,1,1861,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,1,italy,out,bo scaron ko jankovi%c4%87,25,serbia,us palermo,italy,RW,attacker,NA,NA,fc genua 1893,serie a,1,italy,3.15,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,out,daniele mannini,25,italy,ssc neapel,italy,RM,midfielder,75,76,uc sampdoria,serie a,1,italy,3.15,3.6,0,26,0.9,1.38,1,1,1861,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,out,michele paolucci,23,italy,juventus turin,italy,CF,attacker,75,82,ac siena,serie a,1,italy,3.15,1.8,363,28,0.78,1.25,9,2,1751,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,bo scaron ko jankovi%c4%87,25,serbia,us palermo,italy,RW,attacker,NA,NA,us palermo,serie a,1,italy,3.15,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,mario bolatti,24,argentina,fc porto,portugal,DM,midfielder,77,81,fc porto,primeira liga,1,portugal,3.15,2.25,549,20,0.87,1.9,5,1,1800,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,michele paolucci,23,italy,juventus turin,italy,CF,attacker,75,82,juventus turin,serie a,1,italy,3.15,1.8,363,28,0.78,1.25,9,2,1751,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,out,marco parolo,24,italy,chievo verona,italy,CM,midfielder,57,65,ac cesena,serie b,2,italy,3.15,-,0,32,1,1.47,4,0,2621,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,fabian orellana,23,chile,audax italiano,chile,RW,attacker,NA,NA,audax italiano,primera division apertura,1,chile,3.15,0.72,0,1,1,0,1,0,90,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,marco motta,23,italy,udinese calcio,italy,RB,defender,76,80,as rom,serie a,1,italy,3.15,3.6,0,35,0.88,1.6,0,3,2517,2,1,0.5,0,0,210,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,in,emiliano viviano,23,italy,inter mailand,italy,GK,keeper,71,88,inter mailand,serie a,1,italy,3.15,2.7,0,41,1,1.44,0,0,3652,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,in,michele paolucci,23,italy,udinese calcio,italy,CF,attacker,75,82,udinese calcio,serie a,1,italy,2.97,1.8,0,28,0.78,1.25,9,2,1751,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,michele paolucci,23,italy,udinese calcio,italy,CF,attacker,75,82,juventus turin,serie a,1,italy,2.97,1.8,0,28,0.78,1.25,9,2,1751,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,francesco bolzoni,20,italy,inter mailand,italy,CM,midfielder,62,78,fc genua 1893,serie a,1,italy,2.7,0.72,0,6,0.67,1.67,0,0,466,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,1,italy,out,ciro capuano,27,italy,us palermo,italy,CB,defender,73,74,catania calcio,serie a,1,italy,2.7,0.9,0,20,0.74,0.95,1,1,1694,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,francesco bolzoni,20,italy,inter mailand,italy,CM,midfielder,62,78,inter mailand,serie a,1,italy,2.7,0.72,0,6,0.67,1.67,0,0,466,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,NA,italy,in,maxi lopez,25,argentina,fk moskau,russia,CF,attacker,77,82,fk moskau,NA,1,russia,2.7,2.7,1260,36,0.97,1.64,16,7,2925,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,ciro capuano,27,italy,us palermo,italy,CB,defender,73,74,us palermo,serie a,1,italy,2.7,0.9,0,20,0.74,0.95,1,1,1694,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,giuseppe bellusci,19,italy,ascoli calcio,italy,CB,defender,70,80,ascoli calcio,serie b,2,italy,2.7,0.27,0,31,0.89,1.35,1,2,2701,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,in,ignazio abate,22,italy,fc turin,italy,RB,defender,76,86,fc turin,serie b,2,italy,2.52,1.62,0,27,0.9,0.93,1,3,2060,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,francesco valiani,29,italy,fc bologna,italy,CM,midfielder,70,72,fc bologna,serie a,1,italy,2.52,2.07,0,35,1,1.14,2,6,2646,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,cesare natali,30,italy,fc turin,italy,CB,defender,74,75,fc turin,serie b,2,italy,2.52,1.71,0,29,0.97,0.93,3,0,2562,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,adrian ricchiuti,31,argentina,ac rimini 1912,italy,SS,attacker,73,75,ac rimini 1912,prima divisione b,3,italy,2.52,0.72,0,43,0.98,1.19,5,9,3807,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,out,francesco valiani,29,italy,fc bologna,italy,CM,midfielder,70,72,fc parma,serie a,1,italy,2.52,2.07,0,35,1,1.14,2,6,2646,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,manuel da costa,23,morocco,ac florenz,italy,CB,defender,NA,NA,west ham united,premier league,1,england,2.43,1.35,0,6,0.32,1.17,0,0,338,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,simone tiribocchi,31,italy,us lecce,italy,CF,attacker,76,79,us lecce,serie b,2,italy,2.43,2.7,0,37,1,0.76,11,5,2969,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,jonathan biabiany,21,france,inter mailand,italy,RW,attacker,75,85,fc parma,serie a,1,italy,2.25,3.15,0,40,1,1.2,8,8,3167,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,in,davide di gennaro,21,italy,fc genua 1893,italy,DM,midfielder,72,85,fc genua 1893,serie a,1,italy,2.25,0.72,0,26,0.76,0.73,1,0,838,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,out,olof mellberg,31,sweden,juventus turin,italy,CB,defender,77,81,olympiakos piraus,super league,1,greece,2.25,8.1,0,38,0.79,1.89,2,0,2989,6,0.86,1.5,0,0,494,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,jonathan biabiany,21,france,inter mailand,italy,RW,attacker,75,85,inter mailand,serie a,1,italy,2.25,3.15,0,40,1,1.2,8,8,3167,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,alessandro budel,28,italy,fc parma,italy,DM,midfielder,73,79,brescia calcio,serie b,2,italy,2.25,0.765,0,36,0.92,1.81,3,3,2765,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,dario dainelli,30,italy,ac florenz,italy,CB,defender,75,80,ac florenz,serie a,1,italy,2.25,3.6,1279,29,0.81,1.79,1,2,2400,5,1,0.6,0,0,405,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,riccardo meggiorini,23,italy,fc genua 1893,italy,SS,attacker,69,78,as bari,serie a,1,italy,2.25,1.62,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,davide di gennaro,21,italy,fc genua 1893,italy,DM,midfielder,72,85,ac mailand,serie a,1,italy,2.25,0.72,0,26,0.76,0.73,1,0,838,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,riccardo meggiorini,23,italy,fc genua 1893,italy,SS,attacker,69,78,fc genua 1893,serie a,1,italy,2.25,1.62,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,dario dainelli,30,italy,ac florenz,italy,CB,defender,75,80,fc genua 1893,serie a,1,italy,2.25,3.6,1279,29,0.81,1.79,1,2,2400,5,1,0.6,0,0,405,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,in,andre dias,30,brazil,fc sao paulo,brazil,CB,defender,78,84,fc sao paulo,campeonato brasileiro serie a,1,brazil,2.25,2.7,1248,34,1,1.88,1,2,2881,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,alex geijo,27,spain,racing santander,spain,CF,attacker,NA,NA,racing santander,primera division,1,spain,2.25,1.8,1644,21,1,1.38,10,0,1776,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,danijel aleksic,18,serbia,fk vojvodina novi sad,serbia,AM,midfielder,NA,NA,fk vojvodina novi sad,superliga,1,serbia,2.03,2.7,0,26,1,1.5,4,0,1118,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,nenad tomovi%c4%87,21,serbia,roter stern belgrad,serbia,CB,defender,65,75,roter stern belgrad,superliga,1,serbia,1.98,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,NA,italy,in,mariano andujar,25,argentina,estudiantes de la plata,argentina,GK,keeper,NA,NA,estudiantes de la plata,torneo final,1,argentina,1.98,3.15,0,50,0.98,1.68,0,0,4455,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,andrea esposito,23,italy,us lecce,italy,CB,defender,73,81,us lecce,serie b,2,italy,1.89,0.9,0,28,0.85,0.86,1,0,2268,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,gennaro delvecchio,31,italy,uc sampdoria,italy,CM,midfielder,74,76,catania calcio,serie a,1,italy,1.8,2.7,0,38,0.95,1.24,6,1,2653,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,NA,italy,in,nicolas bertolo,23,argentina,club atletico banfield,argentina,LW,attacker,69,76,club atletico banfield,torneo final,1,argentina,1.8,2.25,0,35,1,1.23,8,1,2947,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,NA,italy,in,dorin goian,28,romania,steaua bukarest,romania,CB,defender,NA,NA,steaua bukarest,freundschaftsspiele,1,romania,1.8,3.06,0,34,0.97,1.44,2,1,3033,5,1,0.2,1,0,450,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,in,fabio grosso,31,italy,olympique lyon,france,LB,defender,77,82,olympique lyon,ligue 1,1,france,1.8,6.75,0,33,0.87,1.58,1,1,2869,6,1,1.67,0,1,540,0,0,0,0,0,0,2009/2010
+juventus turin,serie a,1,italy,out,cristiano zanetti,32,italy,juventus turin,italy,DM,midfielder,80,84,ac florenz,serie a,1,italy,1.8,5.85,0,14,0.93,1.93,2,0,859,1,1,1,0,0,90,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,cristian zaccardo,27,italy,vfl wolfsburg,germany,CB,defender,75,81,vfl wolfsburg,1 bundesliga,1,germany,1.8,4.5,0,22,0.52,1.77,2,0,1163,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,cristiano zanetti,32,italy,juventus turin,italy,DM,midfielder,80,84,juventus turin,serie a,1,italy,1.8,5.85,0,14,0.93,1.93,2,0,859,1,1,1,0,0,90,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,mato jajalo,21,bosnia-herzegovina,slaven belupo koprivnica,croatia,DM,midfielder,NA,NA,slaven belupo koprivnica,1 hnl,1,croatia,1.8,1.35,0,36,1,1.61,4,4,3012,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,gennaro delvecchio,31,italy,uc sampdoria,italy,CM,midfielder,74,76,uc sampdoria,serie a,1,italy,1.8,2.7,0,38,0.95,1.24,6,1,2653,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,ritchie kitoko,21,belgium,albacete balompie,spain,CM,midfielder,68,78,albacete balompie,segunda division,2,spain,1.8,0.72,0,33,0.85,1.3,2,0,2685,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ssc neapel,serie a,1,italy,in,morgan de sanctis,32,italy,fc sevilla,spain,GK,keeper,77,83,fc sevilla,primera division,1,spain,1.71,4.77,0,41,0.89,1.83,0,0,3690,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,francesco di tacchio,19,italy,ascoli calcio,italy,DM,midfielder,52,75,ascoli calcio,serie b,2,italy,1.62,0.135,0,22,0.85,1.45,4,0,1418,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,jaime romero,18,spain,albacete balompie,spain,RW,attacker,NA,NA,albacete balompie,segunda division,2,spain,1.62,0.81,0,36,0.97,1.22,3,0,2317,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,riccardo meggiorini,24,italy,as bari,italy,SS,attacker,69,78,as bari,serie a,1,italy,1.61,2.7,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,out,riccardo meggiorini,24,italy,as bari,italy,SS,attacker,69,78,fc genua 1893,serie a,1,italy,1.61,2.7,0,38,0.97,1.34,18,6,3138,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,robert gucher,18,austria,frosinone calcio,italy,DM,midfielder,53,68,frosinone calcio,serie b,2,italy,1.53,0.27,0,11,0.69,1.09,1,0,860,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,nicola belmonte,22,italy,ac siena,italy,CB,defender,62,76,ac siena,serie a,1,italy,1.35,0.63,0,2,0.67,2,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,out,nicola belmonte,22,italy,ac siena,italy,CB,defender,62,76,as bari,serie a,1,italy,1.35,0.63,0,2,0.67,2,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,piermario morosini,22,italy,vicenza calcio,italy,CM,midfielder,70,78,vicenza calcio,serie b,2,italy,1.35,0.9,0,34,0.97,1.38,0,4,3014,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+cagliari calcio,serie a,1,italy,in,lino marzorati,22,italy,fc empoli,italy,CB,defender,70,80,fc empoli,serie b,2,italy,1.35,3.15,0,28,0.76,1.61,0,0,2287,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,in,dominic adiyiah,20,ghana,fredrikstad fk,norway,RW,attacker,55,71,fredrikstad fk,1 divisjon,2,norway,1.26,0.9,0,4,0.24,0,0,0,149,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,haris seferovic,17,switzerland,grasshopper club zurich,switzerland,CF,attacker,41,67,grasshopper club zurich,raiffeisen super league,1,switzerland,1.22,0.045,521,2,0.67,1.5,1,0,92,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+cagliari calcio,serie a,1,italy,in,radja nainggolan,21,belgium,piacenza calcio 1919,italy,AM,midfielder,63,70,piacenza calcio 1919,serie b,2,italy,1.17,1.17,1279,39,1,1.26,3,4,3294,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as rom,serie a,1,italy,out,aleandro rosi,22,italy,as rom,italy,RB,defender,68,80,ac siena,serie a,1,italy,1.08,1.35,0,42,0.95,1.6,0,2,3331,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,in,manuel coppola,27,italy,ac siena,italy,CM,midfielder,65,74,ac siena,serie a,1,italy,1.08,0.45,0,16,0.59,1.31,0,0,954,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,massimo donati,28,italy,celtic glasgow,scotland,DM,midfielder,67,78,celtic glasgow,scottish premiership,1,scotland,1.08,1.8,0,6,0.46,2.67,0,0,302,1,0.5,1,0,0,27,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,alexandros tziolis,24,greece,panathinaikos athen,greece,DM,midfielder,71,78,panathinaikos athen,super league,1,greece,1.08,2.25,0,43,0.9,1.74,2,3,2544,4,0.8,2.25,1,1,196,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,aleandro rosi,22,italy,as rom,italy,RB,defender,68,80,as rom,serie a,1,italy,1.08,1.35,0,42,0.95,1.6,0,2,3331,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,out,manuel coppola,27,italy,ac siena,italy,CM,midfielder,65,74,fc parma,serie a,1,italy,1.08,0.45,0,16,0.59,1.31,0,0,954,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,jonathan bottinelli,24,argentina,uc sampdoria,italy,CB,defender,NA,NA,club atletico san lorenzo de almagro,torneo final,NA,argentina,1.01,3.38,0,39,0.87,1.56,2,0,3177,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+cagliari calcio,serie a,1,italy,out,carlos matheu,24,argentina,cagliari calcio,italy,CB,defender,NA,NA,ca independiente de avellaneda,torneo final,NA,argentina,0.945,1.98,0,19,0.47,1.26,0,1,1495,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+inter mailand,serie a,1,italy,out,ivan fatic,20,montenegro,inter mailand,italy,CB,defender,61,65,fc genua 1893,serie a,1,italy,0.9,0.45,0,26,0.76,1.46,0,1,1669,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,nicolas cordova,30,chile,fc parma,italy,CM,midfielder,74,79,brescia calcio,serie b,2,italy,0.9,1.62,0,34,0.92,1.59,7,5,2337,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,nicola amoruso,35,italy,fc parma,italy,CF,attacker,76,83,atalanta bergamo,serie a,1,italy,0.9,1.8,0,28,0.82,0.89,4,2,1750,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,francesco parravicini,27,italy,fc parma,italy,DM,midfielder,63,66,ac siena,serie a,1,italy,0.9,0.585,0,9,0.45,0.89,0,0,341,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,ivan fatic,20,montenegro,inter mailand,italy,CB,defender,61,65,inter mailand,serie a,1,italy,0.9,0.45,0,26,0.76,1.46,0,1,1669,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,antonio langella,32,italy,udinese calcio,italy,LW,attacker,75,80,udinese calcio,serie a,1,italy,0.9,2.25,0,23,0.92,1.04,2,3,891,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,in,jose castillo,33,argentina,us lecce,italy,CF,attacker,NA,NA,us lecce,serie b,2,italy,0.9,1.8,0,31,0.89,0.94,7,6,1910,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,arturo lupoli,22,italy,ac florenz,italy,CF,attacker,69,80,ascoli calcio,serie b,2,italy,0.9,1.13,0,31,0.69,1.13,7,2,941,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,nicola amoruso,35,italy,fc parma,italy,CF,attacker,76,83,fc parma,serie a,1,italy,0.9,1.8,0,28,0.82,0.89,4,2,1750,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,francesco parravicini,27,italy,fc parma,italy,DM,midfielder,63,66,fc parma,serie a,1,italy,0.9,0.585,0,9,0.45,0.89,0,0,341,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,NA,italy,in,nicolas spolli,26,argentina,club atletico newells old boys,argentina,CB,defender,75,78,club atletico newells old boys,torneo final,1,argentina,0.9,1.26,0,18,0.69,1.28,0,0,1520,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,kwadwo asamoah,20,ghana,ac bellinzona,switzerland,LM,midfielder,78,85,ac bellinzona,raiffeisen super league,1,switzerland,0.9,0.9,0,29,0.81,1.72,2,2,2492,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,antonio langella,32,italy,udinese calcio,italy,LW,attacker,75,80,as bari,serie a,1,italy,0.9,2.25,0,23,0.92,1.04,2,3,891,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+cagliari calcio,serie a,1,italy,in,simone barone,31,italy,fc turin,italy,CM,midfielder,71,79,fc turin,serie b,2,italy,0.9,2.07,0,29,0.81,0.83,2,2,1985,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,magnus troest,22,denmark,fc parma,italy,CB,defender,70,76,fc genua 1893,serie a,1,italy,0.81,1.35,0,30,0.73,1.7,3,2,2347,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,in,magnus troest,22,denmark,fc parma,italy,CB,defender,70,76,fc parma,serie a,1,italy,0.81,1.35,0,30,0.73,1.7,3,2,2347,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,miguel layun,21,mexico,tiburones rojos de veracruz,mexico,RB,defender,NA,NA,tiburones rojos de veracruz,ascenso mx clausura,2,mexico,0.81,0.563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,in,eliseu,25,portugal,fc malaga,spain,LB,defender,76,77,fc malaga,primera division,1,spain,0.81,4.5,0,38,0.97,1.47,7,8,2774,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,out,massimo loviso,25,italy,as livorno,italy,DM,midfielder,69,80,fc turin,serie b,2,italy,0.81,1.8,0,44,0.98,1.75,4,5,3642,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,gianluca pegolo,28,italy,fc genua 1893,italy,GK,keeper,62,73,ac siena,serie a,1,italy,0.72,0.27,0,4,0.13,1.25,0,0,324,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,jose castillo,34,argentina,ac florenz,italy,CF,attacker,NA,NA,ac florenz,serie a,1,italy,0.72,1.8,0,31,0.89,0.94,7,6,1910,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac florenz,serie a,1,italy,out,jose castillo,34,argentina,ac florenz,italy,CF,attacker,NA,NA,as bari,serie a,1,italy,0.72,1.8,0,31,0.89,0.94,7,6,1910,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,fabio caserta,30,italy,us lecce,italy,CM,midfielder,75,76,us lecce,serie b,2,italy,0.72,1.8,0,34,0.97,0.71,5,3,1992,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,1,italy,in,gianluca pegolo,28,italy,fc genua 1893,italy,GK,keeper,62,73,fc genua 1893,serie a,1,italy,0.72,0.27,0,4,0.13,1.25,0,0,324,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,in,angelo antonazzo,27,italy,frosinone calcio,italy,RB,defender,60,61,frosinone calcio,serie b,2,italy,0.72,0.54,0,36,1,1.19,4,3,3098,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+us palermo,serie a,1,italy,in,cristian melinte,21,romania,dinamo bukarest,romania,CB,defender,56,78,dinamo bukarest,liga 1,1,romania,0.54,0.045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,in,nicola madonna,22,italy,uc albinoleffe,italy,RM,midfielder,52,70,uc albinoleffe,serie b,2,italy,0.54,0.54,0,34,1,1.32,6,5,2662,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,in,stefano sorrentino,30,italy,aek athen,greece,GK,keeper,75,82,aek athen,super league,1,greece,0.54,1.44,0,32,0.89,0.97,0,0,2880,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,in,thomas hitzlsperger,27,germany,vfb stuttgart,germany,CM,midfielder,78,84,vfb stuttgart,1 bundesliga,1,germany,0.495,5.85,0,45,0.98,1.84,7,11,3683,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,ergun berisa,21,turkey,grasshopper club zurich ii,switzerland,DM,midfielder,NA,NA,grasshopper club zurich ii,1 liga gruppe 2 bis 11 12 ,3,switzerland,0.48,-,0,20,0.95,1.4,4,0,1560,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,giuseppe biava,32,italy,fc genua 1893,italy,CB,defender,76,77,lazio rom,serie a,1,italy,0.45,2.25,0,32,0.94,1.81,2,3,2662,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+lazio rom,serie a,1,italy,in,giuseppe biava,32,italy,fc genua 1893,italy,CB,defender,76,77,fc genua 1893,serie a,1,italy,0.45,2.25,0,32,0.94,1.81,2,3,2662,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,in,blazej augustyn,21,poland,legia warschau,poland,CB,defender,74,82,legia warschau,ekstraklasa,1,poland,0.45,0.09,0,6,0.46,1.67,0,0,286,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,dani benitez,22,spain,rcd mallorca,spain,LW,attacker,NA,NA,rcd mallorca,primera division,1,spain,0.45,0.45,0,30,0.91,1.1,1,0,1745,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,in,jonathan mensah,19,ghana,free state stars,south africa,CB,defender,NA,NA,free state stars,absa premiership,1,south africa,0.45,-,0,26,1,1.73,1,0,2295,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,NA,italy,in,emmanuel badu,19,ghana,berekum arsenals,ghana,CM,midfielder,NA,NA,berekum arsenals,NA,1,ghana,0.45,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as rom,serie a,1,italy,out,edgar alvarez,29,honduras,as rom,italy,RM,midfielder,73,76,as bari,serie a,1,italy,0.405,0.81,0,27,0.96,1.33,5,1,1853,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,edgar alvarez,29,honduras,as rom,italy,RM,midfielder,73,76,as rom,serie a,1,italy,0.405,0.81,0,27,0.96,1.33,5,1,1853,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,in,elia legati,24,italy,fc crotone,italy,CB,defender,61,75,fc crotone,serie b,2,italy,0.36,0.54,394,13,0.93,0.92,0,0,1162,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac siena,serie a,NA,italy,in,gael genevier,27,france,ac pisa 1909,italy,DM,midfielder,68,75,ac pisa 1909,NA,1,italy,0.36,0.72,0,41,0.98,1.12,5,3,3642,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,out,ciro polito,30,italy,catania calcio,italy,GK,keeper,70,73,us salernitana 1919,serie b,2,italy,0.36,0.9,0,23,1,1.57,0,0,2070,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+catania calcio,serie a,1,italy,out,giacomo tedesco,33,italy,catania calcio,italy,CM,midfielder,73,75,fc bologna,serie a,1,italy,0.36,1.17,0,32,0.91,1.06,1,8,2256,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,in,manuel iori,27,italy,as cittadella,italy,DM,midfielder,66,76,as cittadella,serie b,2,italy,0.36,1.35,0,42,1,1.19,7,7,3708,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,in,giacomo tedesco,33,italy,catania calcio,italy,CM,midfielder,73,75,catania calcio,serie a,1,italy,0.36,1.17,0,32,0.91,1.06,1,8,2256,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,NA,italy,in,federico dionisi,22,italy,celano fc marsica,italy,CF,attacker,63,70,celano fc marsica,NA,1,italy,0.36,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,in,mozart,29,brazil,se palmeiras sao paulo,brazil,DM,midfielder,72,82,se palmeiras sao paulo,campeonato brasileiro serie a,1,brazil,0.333,1.62,0,13,0.93,1.85,0,1,747,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,1,italy,in,riccardo allegretti,31,italy,us triestina,italy,CM,midfielder,67,72,us triestina,serie b,2,italy,0.27,0.72,0,30,0.97,1.07,7,5,2262,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,out,sergio volpi,35,italy,fc bologna,italy,CM,midfielder,75,78,reggina calcio,serie b,2,italy,0.27,0.99,0,27,0.9,1.07,4,4,2300,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,in,jurgen prutsch,20,austria,sk sturm graz,austria,CM,midfielder,NA,NA,sk sturm graz,bundesliga,1,austria,0.27,0.203,529,1,0.07,3,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,mirko pieri,30,italy,uc sampdoria,italy,LB,defender,72,77,as livorno,serie a,1,italy,0.18,1.44,0,43,0.88,1.3,0,3,3243,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc genua 1893,serie a,1,italy,out,stefano botta,22,italy,fc genua 1893,italy,CM,midfielder,NA,NA,vicenza calcio,serie b,2,italy,0.18,0.405,0,39,1,1.31,2,3,2993,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,out,cesar,30,brazil,chievo verona,italy,CB,defender,67,72,ac padova,serie b,2,italy,0.18,1.17,0,23,0.68,1.61,0,0,2070,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,out,vincenzo italiano,31,italy,chievo verona,italy,CM,midfielder,70,76,ac padova,serie b,2,italy,0.18,0.9,0,22,0.69,0.73,3,2,1385,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,in,mirko pieri,30,italy,uc sampdoria,italy,LB,defender,72,77,uc sampdoria,serie a,1,italy,0.18,1.44,0,43,0.88,1.3,0,3,3243,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,in,davide marchini,28,italy,us triestina,italy,RM,midfielder,67,75,us triestina,serie b,2,italy,0.18,0.72,0,21,0.84,0.95,0,2,1176,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+atalanta bergamo,serie a,1,italy,out,dario bergamelli,22,italy,atalanta bergamo,italy,CB,defender,53,72,uc albinoleffe,serie b,2,italy,0.135,-,0,26,0.9,1.38,0,0,2340,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+udinese calcio,serie a,1,italy,out,matteo piccinni,23,italy,udinese calcio,italy,CB,defender,57,71,uc albinoleffe,serie b,2,italy,0.135,0.135,0,13,0.37,1.23,0,0,755,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+uc sampdoria,serie a,1,italy,out,stefano scappini,21,italy,uc sampdoria,italy,CF,attacker,NA,NA,ravenna fc,prima divisione b,3,italy,0.108,-,0,22,0.67,1.05,5,0,731,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+chievo verona,serie a,1,italy,in,luca ariatti,30,italy,us lecce,italy,CM,midfielder,69,79,us lecce,serie b,2,italy,0.09,2.25,0,32,0.94,0.66,0,1,2653,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,out,davide carrus,30,italy,fc bologna,italy,DM,midfielder,63,71,mantova fc,serie b,2,italy,0.09,0.9,0,17,0.81,1.53,0,2,1298,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,NA,italy,in,ilario lamberti,21,italy,sapri calcio 1928,italy,GK,keeper,46,57,sapri calcio 1928,NA,1,italy,0.068,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc parma,serie a,1,italy,out,christian anelli,20,italy,fc parma,italy,CB,defender,NA,NA,ac carpenedolo,NA,NA,italy,0.058,0.045,0,11,1,1.09,0,0,990,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as bari,serie a,NA,italy,in,alessandro marotta,23,italy,as gubbio 1910,italy,CF,attacker,NA,NA,as gubbio 1910,NA,1,italy,0.054,-,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+fc bologna,serie a,1,italy,in,filippo spitoni,25,italy,andria bat,italy,GK,keeper,NA,NA,andria bat,prima divisione b,3,italy,0.045,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+ac mailand,serie a,1,italy,out,elia legati,23,italy,ac mailand,italy,CB,defender,61,75,fc crotone,serie b,2,italy,0.009,0.045,0,13,0.93,0.92,0,0,1162,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
+as livorno,serie a,1,italy,out,alessandro vono,21,italy,as livorno,italy,GK,keeper,NA,NA,us catanzaro,NA,NA,italy,,0.045,0,3,0.23,0.33,0,0,270,0,0,0,0,0,0,0,0,0,0,0,0,2009/2010
