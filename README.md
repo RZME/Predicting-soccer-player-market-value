@@ -46,7 +46,8 @@
         - Predicting soccer-player market value
         - Predicting soccer-player transfer-fee without the market-value as a predictor
 
- 
+     Transfer-fee and Market value were predicted and are expressed in million £. Predicting transfer fee was significantly more complex due to the large variance. Best results were obtained with the ANN model, although its results did not significantly differ from the Random-Forest model. 
+
  ## **Results** _(Predicting market-value)_
  
 
