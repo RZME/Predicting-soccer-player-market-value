@@ -45,7 +45,7 @@
         - Predicting soccer-player market value
         - Predicting soccer-player transfer-fee without the market-value as a predictor
 
-The ANN and Random-Forest models were fairly simple. Cross-validation + hyper-parameter tuning was done but it did not increase the performance of the models, hence simple models were used.
+The ANN and Random-Forest model were fairly simple. Cross-validation + hyper-parameter tuning was done but it did not increase the performance of the models, hence simple models were used.
 
 Transfer-fee and Market value were predicted and are expressed in million £. Predicting transfer fee was significantly more complex due to the large variance. Best results were obtained with the ANN model for the prediction of market value, where the model was able to explain for 80% of the data's variance (R2 = 0.80) and an RMSE of only £3.13 million. However, results did not significantly differ from the Random-Forest model.
 
