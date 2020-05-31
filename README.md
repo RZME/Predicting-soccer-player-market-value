@@ -32,7 +32,8 @@
      - Remaining contract duration
      - Season
  
- 
+ The ANN and Random-Forest models were fairly simple. Cross-validation + hyper-parameter tuning was done but it did not increase the performance of the models, hence simple models were used.
+
  **Data-set:**
  
     N - Total     : 6633
