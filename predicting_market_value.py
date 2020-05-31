@@ -170,10 +170,12 @@ y = df['market_value']
 X = df.drop(columns=['transfer_fee',
                      'transfer_movement',
                      'market_value',
+                     'player_position_category',
                      'player_club',
                      'player_club_country',
                      'player_nationality',
                      'player_position',
+                     'remaining_contract_duration',
                      'club',
                      'total_minutes_per_point',
                      'total_apps',
@@ -198,11 +200,6 @@ X = df.drop(columns=['transfer_fee',
                      'club_league_tier',
                      'club_involved_league_tier'])
 print(X.keys())
-print(X.describe()['remaining_contract_duration'])
-print(X.describe()['player_age'])
-
-print(X.describe()['season'])
-
 
 # %%
 """
@@ -272,6 +269,16 @@ print('Test Mean Absolute Error:', test_mae)
 print('Test Mean Squared Error:', test_mse)
 print('Test Root Mean Squared Error:', np.sqrt(test_mse))
 display_graphs(test_predictions, y_test, "ANN", "results_market_value")
+print(normed_train_data.keys())
+
+# df = pd.DataFrame(columns=['player_age', 'player_rating', 'player_potential', 'total_goals',
+#                            'total_assists', 'total_minutes_played', 'season'])
+# new = pd.DataFrame([[27, 86, 87, 8, 21, 2686, 12]],
+#                    columns=['player_age', 'player_rating', 'player_potential', 'total_goals',
+#                             'total_assists', 'total_minutes_played', 'season'])
+# df = df.append(new)
+# ziyech = norm(df)
+# print('Prediction:', model.predict(ziyech))
 
 # %%
 """
@@ -311,6 +318,8 @@ rf = RandomForestRegressor()
 # %%
 rf.fit(normed_train_data, y_train)
 y_pred = rf.predict(normed_test_data)
+
+# print('Prediction:', rf.predict(ziyech))
 # %%
 """
 ### • Results

@@ -9,10 +9,11 @@ competitions = {
 
 
 # Checking personal soccer player statistics e.g. #
-name = "Cristiano ronaldo"
-season = 2019
+name = "Iniesta"
+club = "FC Barcelona"
+season = 2010
 
-player_rating, player_potential = scrape_fifa_rating(name, season)
+player_rating, player_potential = scrape_fifa_rating(name, season, club=club)
 print("Name:", name, "-", "Player rating:", player_rating, "-", "Player potential:", player_potential)
 
 beautify_data(scrape_player_data(name, get_pid(name), season))

@@ -64,6 +64,7 @@ def scrape_fifa_rating(player_name: str, season: int, age: int = None,
 
         for value in values:
             try:
+                player_name = player_name.lower()
                 name = value['data-tooltip']
                 name = strip_accents(str.encode(name).decode('unicode_escape'))
                 player_name_to_check = str(name).lower().strip()
@@ -85,6 +86,7 @@ def scrape_fifa_rating(player_name: str, season: int, age: int = None,
                 pass
 
         if club is not None:
+            club = club.lower()
             for value in values[1:]:
                 try:
                     value.attrs['rel']
