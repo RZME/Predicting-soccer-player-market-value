@@ -29,8 +29,10 @@
      - Total season goals
      - Total season assists
      - Total minutes played
-     - Remaining contract duration
+     - Remaining contract duration*
      - Season
+     
+     * transfer fee only
  
 
  **Data-set:**
