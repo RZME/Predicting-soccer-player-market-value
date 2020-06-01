@@ -4,6 +4,8 @@
 """
 
 # %%
+import pickle
+
 import keras
 import numpy as np
 import pandas as pd
@@ -17,7 +19,10 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 from sklearn.model_selection import train_test_split
-from testing_utils.testing_utils import print_results, drop_col_feat_imp, display_graphs
+import _pickle as cPickle
+
+
+from testing_utils.testing_utils import print_results, drop_col_feat_imp, display_graphs, norm
 
 # %%
 """
@@ -215,14 +220,9 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 # %%
 train_stats = X_train.describe()
 train_stats = train_stats.transpose()
-
-
-def norm(data):
-    return (data - train_stats['mean']) / train_stats['std']
-
-
-normed_train_data = norm(X_train)
-normed_test_data = norm(X_test)
+train_stats.to_csv('train_stats.csv')
+normed_train_data = norm(X_train, train_stats)
+normed_test_data = norm(X_test, train_stats)
 
 # %%
 """
@@ -271,14 +271,8 @@ print('Test Root Mean Squared Error:', np.sqrt(test_mse))
 display_graphs(test_predictions, y_test, "ANN", "results_market_value")
 print(normed_train_data.keys())
 
-# df = pd.DataFrame(columns=['player_age', 'player_rating', 'player_potential', 'total_goals',
-#                            'total_assists', 'total_minutes_played', 'season'])
-# new = pd.DataFrame([[27, 86, 87, 8, 21, 2686, 12]],
-#                    columns=['player_age', 'player_rating', 'player_potential', 'total_goals',
-#                             'total_assists', 'total_minutes_played', 'season'])
-# df = df.append(new)
-# ziyech = norm(df)
-# print('Prediction:', model.predict(ziyech))
+with open('final_ann_model', 'wb') as f:
+    cPickle.dump(model, f)
 
 # %%
 """
@@ -318,8 +312,8 @@ rf = RandomForestRegressor()
 # %%
 rf.fit(normed_train_data, y_train)
 y_pred = rf.predict(normed_test_data)
-
-# print('Prediction:', rf.predict(ziyech))
+with open('final_rf_model', 'wb') as f:
+    cPickle.dump(rf, f)
 # %%
 """
 ### • Results
@@ -347,7 +341,6 @@ y_pred = lr.predict(normed_test_data)
 # %%
 print_results(lr, normed_test_data, y_test, y_pred)
 display_graphs(y_pred, y_test, "Linear-regression", "results_market_value")
-
 coefficients = pd.DataFrame(columns=['Feature', 'Coefficient'])
 
 for x in range(0, len(normed_train_data.keys())):
@@ -355,30 +348,6 @@ for x in range(0, len(normed_train_data.keys())):
                          lr.coef_[x]]],
                        columns=['Feature', 'Coefficient'])
     coefficients = coefficients.append(row)
-
 print('\n')
 coefficients.set_index('Feature', inplace=True)
 print(coefficients)
-
-# %%
-"""
-### • Descriptive summary for transfer fee across seasons
-"""
-
-# %%
-new_df = pd.DataFrame(columns=['Season', 'AVG', 'MIN', 'MED', 'MAX', 'N'])
-for x in range(2008, 2020):
-    data_frame = df[df['season'] == x - 2008]
-    transfer_fee = data_frame['transfer_fee']
-    new = pd.DataFrame([['{}'.format(x),
-                         str('£') + str(round(np.mean(transfer_fee), 2)) + 'm',
-                         str('£') + str(round(np.min(transfer_fee), 2)) + 'm',
-                         str('£') + str(round(np.median(transfer_fee), 2)) + 'm',
-                         str('£') + str(round(np.max(transfer_fee), 2)) + 'm',
-                         len(data_frame)]],
-                       columns=['Season', 'AVG', 'MIN', 'MED', 'MAX', 'N'])
-    new_df = new_df.append(new)
-print('\n')
-new_df.set_index('Season', inplace=True)
-new_df.to_csv("data-summary.csv")
-print(new_df)

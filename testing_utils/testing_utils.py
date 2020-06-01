@@ -52,6 +52,10 @@ def print_results(model, X_test, y_test, y_pred):
     print('Test Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
 
+def norm(data, train_stats):
+    return (data - train_stats['mean']) / train_stats['std']
+
+
 def display_graphs(prediction, actual, title, folder):
     fig, ax = pyplot.subplots()
     ax.scatter(prediction, actual)

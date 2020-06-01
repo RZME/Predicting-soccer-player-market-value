@@ -18,7 +18,6 @@ def get_pid(player_name: str) -> int:
                  + replace_all(player_name, "+", ' ')
     req = urllib.request.Request(url, get_data(), headers=headers)
     html_code = str(urllib.request.urlopen(req).read())
-
     soup = BeautifulSoup(html_code, 'html.parser')
     query = soup.find_all(attrs={"class": "inline-table"})
 
