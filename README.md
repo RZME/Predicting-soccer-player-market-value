@@ -3,7 +3,7 @@
  
  This is a private repository dedicated to my project.
  Next to the .py dedicated for data science purposes, data-visualization scripts & data, it also
- contains a scraper that scrapes Transfermarkt and SoFIFA
+ contains a scraper that scrapes https://www.transfermarkt.com/ and https://sofifa.com/
  in order to create a comprehensive dataset.
  
  This research uses the Transfermarkt's market value estimate
@@ -95,3 +95,8 @@ Transfer-fee and Market value were predicted and are expressed in million £. Pr
      
      ![Alt Text](https://github.com/RZME/Predicting-soccer-player-market-value/blob/master/results_transfer_fee/Linear-regression-error-distribution.png?raw=true)
          
+## Sources
+FIFA ratings were scraped from https://sofifa.com/, in accordance with their terms of use: https://sofifa.com/help/tos.
+Other data was scraped from https://www.transfermarkt.com/, in accordance with their terms of use: https://www.transfermarkt.com/intern/anb.
+
+
