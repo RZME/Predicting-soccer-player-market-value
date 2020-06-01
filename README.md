@@ -97,6 +97,7 @@ Transfer-fee and Market value were predicted and are expressed in million £. Pr
          
 ## Sources
 FIFA ratings were scraped from https://sofifa.com/, in accordance with their terms of use: https://sofifa.com/help/tos.
+
 Other data was scraped from https://www.transfermarkt.com/, in accordance with their terms of use: https://www.transfermarkt.com/intern/anb.
 
 
