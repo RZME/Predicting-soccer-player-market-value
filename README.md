@@ -2,6 +2,7 @@
  Project _Tilburg University_
  
  This is a private repository dedicated to my project.
+ I decided to showcase my model on my website -> https://rzmescript.com/thesisproject
  Next to the .py dedicated for data science purposes, data-visualization scripts & data, it also
  contains a scraper that scrapes https://www.transfermarkt.com/ and https://sofifa.com/
  in order to create a comprehensive dataset.
